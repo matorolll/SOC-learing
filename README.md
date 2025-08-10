@@ -17,3 +17,5 @@ Day 8 08.08.2025 <br/>
 completing entire Cyber Threat Intelligence path on TryHackMe courses, SOC level 1 (44 tasks) <br/>
 Day 9 09.08.2025 <br/>
 Processing futher within TryHackMe courses, SOC level 1 (8 tasks) <br/>
+Day 10 10.08.2025 <br/>
+Processing with snort on tryhackme courses
