@@ -19,3 +19,5 @@ Day 9 09.08.2025 <br/>
 Processing futher within TryHackMe courses, SOC level 1 (8 tasks) <br/>
 Day 10 10.08.2025 <br/>
 Processing with snort on tryhackme courses
+Day 11 11.08.2025 <br />
+Processing with snort futher on tryhackme courses
