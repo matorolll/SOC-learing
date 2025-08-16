@@ -29,3 +29,5 @@ Day 14 14.08.2025 <br />
 completing another snort room on tryhackme courses  <br/>
 Day 15 15.08.2025 <br />
 completing entire snort rooms, starting networkminer room on tryhackme courses  <br/>
+Day 16 16.08.2025 <br />
+completing networkminer, zeek rooms on tryhackme courses  <br/>
