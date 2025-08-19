@@ -35,3 +35,6 @@ Day 17 17.08.2025 <br />
 completing zeek exercises rooms on tryhackme courses, SOC level 1 (21 tasks)  <br/>
 Day 18 18.08.2025 <br />
 completing entire brim rooms on tryhackme courses, SOC level 1 (23 tasks)  <br/>
+Day 19 19.08.2025 <br />
+first job interview, junior SOC
+completing Wireshark 2/3 rooms on tryhackme courses, SOC level 1 (41 tasks)  <br/>
