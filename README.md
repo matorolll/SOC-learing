@@ -2,46 +2,40 @@
 
 | ID | Day  | Descriptions | Details |  
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 01.08.2025 | Gethering learning sources  | Starting Preparation for SOC job |
-| 2  | 02.08.2025 | Entering Tryhackme courses path for SOC  | 103 Tasks |
-| 3  | 02.08.2025 |  d  | d  |
-| 4  | 02.08.2025 |  d  | d  |
-| 5  | 02.08.2025 |  d  | d  |
-| 6  | 02.08.2025 |  d  | d  |
-| 7  | 02.08.2025 |  d  | d  |
-| 8  | 02.08.2025 |  d  | d  |
-| 9  | 02.08.2025 |  d  | d  |
-| 10 | 02.08.2025 |  d  | d  |
-| 11 | 02.08.2025 |  d  | d  |
-| 12 | 02.08.2025 |  d  | d  |
-| 13 | 02.08.2025 |  d  | d  |
-| 14 | 02.08.2025 |  d  | d  |
-| 15 | 02.08.2025 |  d  | d  |
-| 16 | 02.08.2025 |  d  | d  |
-| 17 | 02.08.2025 |  d  | d  |
-| 18 | 02.08.2025 |  d  | d  |
-| 19 | 02.08.2025 |  d  | d  |
-| 20 | 02.08.2025 |  d  | d  |
-| 21 | 02.08.2025 |  d  | d  |
-| 22 | 02.08.2025 |  d  | d  |
-| 23 | 02.08.2025 |  d  | d  |
-| 24 | 02.08.2025 |  d  | d  |
-| 25 | 02.08.2025 |  d  | d  |
-| 26 | 02.08.2025 |  d  | d  |
-| 27 | 02.08.2025 |  d  | d  |
-| 28 | 02.08.2025 |  d  | d  |
-| 29 | 02.08.2025 |  d  | d  |
-| 30 | 02.08.2025 |  d  | d  |
-| 31 | 02.08.2025 |  d  | d  |
+| 1  | 01.08.2025 | Gethering learning sources                      | Starting Preparation for SOC job |
+| 2  | 02.08.2025 | Entering Tryhackme courses path for SOC         | SOC lvl 1 path - 103 Tasks |
+| 3  | 02.08.2025 | Processing futher within TryHackMe courses      | SOC lvl 1 path - 83 Tasks |
+| 4  | 02.08.2025 | Processing futher within TryHackMe courses      | SOC lvl 1 path - x Tasks |
+| 5  | 02.08.2025 | Completing Threat Intelligence Tools            | SOC lvl 1 path - x Tasks |
+| 6  | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 7  | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 8  | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 9  | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 10 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 11 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 12 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 13 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 14 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 15 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 16 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 17 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 18 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 19 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 20 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 21 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 22 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 23 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 24 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 25 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 26 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 27 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 28 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 29 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 30 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
+| 31 | 02.08.2025 |  d  | SOC lvl 1 path - x Tasks |
 
 
 
-
-
-
-# SOC-learing <br/>
-Day 1 01.08.2025 <br/>
-Gathering learning soucers <br/>
 Day 2 02.08.2025 <br/>
 Entering and processing TryHackMe courses including SOC level 1 (103 tasks) <br/>
 Day 3 03.08.2025 <br/>
