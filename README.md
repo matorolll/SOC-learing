@@ -21,7 +21,7 @@
 | 17 | 17.08.2025 | Completing Zeek Exercises rooms                 | SOC lvl 1 path - 21 Tasks |
 | 18 | 18.08.2025 | Completing Brim room                            | SOC lvl 1 path - 23 Tasks |
 | 19 | 19.08.2025 | First job interview for SOC, entering Wireshark room | SOC lvl 1 path - 41 Tasks |
-| 20 | 20.08.2025 | Completing all Wireshark rooms, entering Warzone room | SOC lvl 1 path - 54 Tasks |
+| 20 | 20.08.2025 | Completing all Wireshark rooms, completing Warzone 1 room | SOC lvl 1 path - 69 Tasks |
 | 21 | 21.08.2025 |  d  |  x Tasks |
 | 22 | 22.08.2025 |  d  |  x Tasks |
 | 23 | 23.08.2025 |  d  |  x Tasks |
