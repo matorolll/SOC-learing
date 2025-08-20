@@ -1,3 +1,8 @@
+| Day  | Descriptions | Details |  
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 # SOC-learing <br/>
 Day 1 01.08.2025 <br/>
 Gathering learning soucers <br/>
