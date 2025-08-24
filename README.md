@@ -25,7 +25,7 @@
 | 21 | 21.08.2025 | Completing Tshark Basics and CLI features rooms | SOC lvl 1 path - 52 Tasks |
 | 22 | 22.08.2025 | Completing Network Security and Traffic Analysis path  | SOC lvl 1 path - 30 Tasks |
 | 23 | 23.08.2025 | Entering Endpoint Security room  | SOC lvl 1 path - 3 Tasks |
-| 24 | 24.08.2025 |  d  |  x Tasks |
+| 24 | 24.08.2025 | Completing Endpoint Security room  | SOC lvl 1 path - 11 Tasks |
 | 25 | 25.08.2025 |  d  |  x Tasks |
 | 26 | 26.08.2025 |  d  |  x Tasks |
 | 27 | 27.08.2025 |  d  |  x Tasks |
