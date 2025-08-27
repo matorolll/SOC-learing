@@ -27,8 +27,8 @@
 | 23 | 23.08.2025 | Entering Endpoint Security room                 | SOC lvl 1 path - 3 Tasks |
 | 24 | 24.08.2025 | Completing Endpoint Security room               | SOC lvl 1 path - 11 Tasks |
 | 25 | 25.08.2025 | Completing Sysinternals room                    | SOC lvl 1 path - 30 Tasks |
-| 26 | 26.08.2025 | Windows Event Logs room                         | SOC lvl 1 path - 44 Tasks |
-| 27 | 27.08.2025 |  d  |  x Tasks |
+| 26 | 26.08.2025 | Completing Windows Event Logs room              | SOC lvl 1 path - 44 Tasks |
+| 27 | 27.08.2025 | Completing Sysmon room                          | SOC lvl 1 path - 38 Tasks |
 | 28 | 28.08.2025 |  d  |  x Tasks |
 | 29 | 29.08.2025 |  d  |  x Tasks |
 | 30 | 30.08.2025 |  d  |  x Tasks |
