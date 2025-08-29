@@ -30,7 +30,7 @@
 | 26 | 26.08.2025 | Completing Windows Event Logs room              | SOC lvl 1 path - 44 Tasks |
 | 27 | 27.08.2025 | Completing Sysmon room                          | SOC lvl 1 path - 38 Tasks |
 | 28 | 28.08.2025 | Completing Osquery: The Basics room             | SOC lvl 1 path - 24 Tasks |
-| 29 | 29.08.2025 |  d  |  x Tasks |
+| 29 | 29.08.2025 | Completing Endpoint Security Monitoring path    | SOC lvl 1 path - 76 Tasks |
 | 30 | 30.08.2025 |  d  |  x Tasks |
 | 31 | 31.08.2025 |  d  |  x Tasks |
 
