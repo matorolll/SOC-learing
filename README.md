@@ -43,5 +43,5 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 1  | 01.09.2025 | Completing Security Information and Event Management path  | SOC lvl 1 path - 67 Tasks |
 | 2  | 02.09.2025 | Returning to review the basics for work, Starting and Completing entire pre security path in one day | Pre Security path - 290 Tasks |
 | 3  | 03.09.2025 | Completing DRIF and Windows Forensics 1 rooms              | SOC lvl 1 path - 57 Tasks |
-| 4  | 04.09.2025 | | SOC lvl 1 path - x Tasks |
+| 4  | 04.09.2025 | Completing Active Directory Basics room                    | Cyber Security 101 path - 41 Tasks |
 
