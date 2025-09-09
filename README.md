@@ -45,7 +45,8 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 3  | 03.09.2025 | Completing DRIF and Windows Forensics 1 rooms              | SOC lvl 1 path - 57 Tasks |
 | 4  | 04.09.2025 | Completing Active Directory Basics room                    | Cyber Security 101 path - 41 Tasks |
 | 5  | 05.09.2025 | Completing Linux Forensincs and Autopsy rooms              | SOC lvl 1 path - 92 Tasks |
-| 6  | 06.09.2025 | Completing Windows Command Line rooms                      | Cyber Security 101 path - 11 Tasks |
-| 7  | 07.09.2025 | Completing Windows Forensics 2 rooms                       | SOC lvl 1 path - 15 Tasks |
+| 6  | 06.09.2025 | Completing Windows Command Line room                       | Cyber Security 101 path - 11 Tasks |
+| 7  | 07.09.2025 | Completing Windows Forensics 2 room                        | SOC lvl 1 path - 15 Tasks |
 | 8  | 08.09.2025 | Completing Autopsy, Redline, Kape, Volatillity, Velociraptor, TheHive, Malware Analysis rooms| SOC lvl 1 path - 183 Tasks |
+| 9  | 09.09.2025 | Completing Unattended room                                 | SOC lvl 1 path - 21 Tasks |
 
