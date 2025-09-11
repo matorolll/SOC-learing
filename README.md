@@ -50,5 +50,6 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 8  | 08.09.2025 | Completing Autopsy, Redline, Kape, Volatillity, Velociraptor, TheHive, Malware Analysis rooms| SOC lvl 1 path - 183 Tasks |
 | 9  | 09.09.2025 | Completing Unattended room                                 | SOC lvl 1 path - 21 Tasks |
 | 10 | 10.09.2025 | Completing Disgruntled room                                | SOC lvl 1 path - 21 Tasks |
+| 11 | 11.09.2025 | Digital Forensics and Incident Response path               | SOC lvl 1 path - 56 Tasks |
 
 
