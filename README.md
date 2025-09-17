@@ -55,5 +55,7 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 13 | 13.09.2025 | Completing Phishing Emails in Action room                  | SOC lvl 1 path - 12 Tasks |
 | 14 | 14.09.2025 | Starting Phishing Analysis Tools room                      | SOC lvl 1 path - 4 Tasks  |
 | 15 | 15.09.2025 | Completing Phishing Analysis Tools room                    | SOC lvl 1 path - 28 Tasks |
-| 16 | 16.09.2025 | Phishing Prevention room                                   | SOC lvl 1 path - 31 Tasks |
+| 16 | 16.09.2025 | Completing Phishing Prevention room                        | SOC lvl 1 path - 31 Tasks |
+| 17 | 17.09.2025 | Completing The Greenholt Phish room                        | SOC lvl 1 path - 22 Tasks |
+| 18 | 18.09.2025 |                                                            | SOC lvl 1 path - x Tasks |
 
