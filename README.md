@@ -60,5 +60,6 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 18 | 18.09.2025 | Completing Snapped Phish-ing Line room                     | SOC lvl 1 path - 14 Tasks |
 | 19 | 19.09.2025 | Starting Tempest room                                      | SOC lvl 1 path - 6 Tasks |
 | 20 | 20.09.2025 | Continuing Tempest room                                    | SOC lvl 1 path - 12 Tasks |
-| 21 | 21.09.2025 | Continuing Tempest room                                    | SOC lvl 1 path - x Tasks |
+| 21 | 21.09.2025 | Completing Linux Shells room                               | Cyber Security 101 path - 17 Tasks |
+| 22 | 22.09.2025 |                                                            | SOC lvl 1 path - x Tasks |
 
