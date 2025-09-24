@@ -63,4 +63,5 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 21 | 21.09.2025 | Completing Linux Shells room                               | Cyber Security 101 path - 17 Tasks |
 | 22 | 22.09.2025 | Completing Networking Concepts room                        | Cyber Security 101 path - 24 Tasks |
 | 23 | 23.09.2025 | Completing Networking Essentials room                      | Cyber Security 101 path - 22 Tasks |
+| 24 | 24.09.2025 | Completing Networking Core Protocols room                  | Cyber Security 101 path - 16 Tasks |
 
