@@ -65,4 +65,7 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 23 | 23.09.2025 | Completing Networking Essentials room                      | Cyber Security 101 path - 22 Tasks |
 | 24 | 24.09.2025 | Completing Networking Core Protocols room                  | Cyber Security 101 path - 16 Tasks |
 | 25 | 25.09.2025 | Completing Networking Secure Protocols room                | Cyber Security 101 path - 13 Tasks |
+| 26 | 26.09.2025 | Completing Tcpdump: The Basicss room                       | Cyber Security 101 path - 11 Tasks |
+
+
 
