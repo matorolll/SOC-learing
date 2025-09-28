@@ -1,13 +1,17 @@
-BOXTITLE: Boogeyman 1
-TASK1
-W boxie tym naszym zadaniem jest przeanalizowanie TTPs'a wykonanego na maszynie.
-Całe zadanie zostało podzielone na 3 etapy
-Etap1 - Analiza maila phishingowego
-Etap2 - Analiza logów powershella
-Etap3 - Analiza logów pakietów internetowych
+# BOXTITLE: Boogeyman 1
+> **TASK1**
+> W boxie tym naszym zadaniem jest przeanalizowanie TTPs'a wykonanego na maszynie.
+> **Całe zadanie zostało podzielone na 3 etapy: **
+> Etap1 - Analiza maila phishingowego
+> Etap2 - Analiza logów powershella
+> Etap3 - Analiza logów pakietów internetowych
 
-Q: Let's hunt that boogeyman!
-A: No answer needed
+---
+## Task1
+**Q:** Let's hunt that boogeyman!
+**A:** No answer needed
+
+---
 
 
 
@@ -172,5 +176,6 @@ W: W celu uzyskania informacji o karcie, musimy odczytać tą zawartość z bazy
 Możemy zastosować następującą komende w cmd:
 tshark -r capture.pcapng  -Y 'dns' -T fields -e dns.qry.name |grep ".bpakcaging.xyz" | cut -f1 -d '.'|grep -v -e "files" -e "cdn" | uniq | tr -d '\\n'
 która odczyta plik pcap, nałoży filtr dns a następnie odpowiednio podzieli dane tabel. Tak uzyskany ciąg tekstowy musimy odkodować z hexowego np w cyberchefie. Zapisując wyniki z cyberchefa w formie nazwapliku.kdbx pozwala na uzyskanie dostepu do bazy danych poprzez program KeePassX wraz z podaniem hasła które uzyskaliśmy w poprzednim pytaniu.
+
 
 A: 4024007128269551
