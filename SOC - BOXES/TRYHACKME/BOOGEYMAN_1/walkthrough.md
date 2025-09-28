@@ -1,4 +1,4 @@
-# BOXTITLE: Boogeyman 1
+#Boogeyman 1
 TASK1
 W boxie tym naszym zadaniem jest przeanalizowanie TTPs'a wykonanego na maszynie.
 Całe zadanie zostało podzielone na 3 etapy:
@@ -8,7 +8,7 @@ Etap3 - Analiza logów pakietów internetowych
 
 ---
 ## Task1
-**Q:** Let's hunt that boogeyman!
+**Q:** Let's hunt that boogeyman! </br>
 **A:** No answer needed
 
 ---
@@ -179,4 +179,5 @@ która odczyta plik pcap, nałoży filtr dns a następnie odpowiednio podzieli d
 
 
 A: 4024007128269551
+
 
