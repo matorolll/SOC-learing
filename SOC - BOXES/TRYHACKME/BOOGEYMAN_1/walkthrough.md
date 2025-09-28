@@ -1,4 +1,4 @@
-#Boogeyman 1
+#BOXTITLE: Boogeyman 1
 TASK1
 W boxie tym naszym zadaniem jest przeanalizowanie TTPs'a wykonanego na maszynie.
 Całe zadanie zostało podzielone na 3 etapy:
