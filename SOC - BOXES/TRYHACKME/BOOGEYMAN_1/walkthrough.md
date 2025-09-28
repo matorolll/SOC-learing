@@ -1,10 +1,10 @@
 # BOXTITLE: Boogeyman 1
-> **TASK1**
-> W boxie tym naszym zadaniem jest przeanalizowanie TTPs'a wykonanego na maszynie.
-> **Całe zadanie zostało podzielone na 3 etapy: **
-> Etap1 - Analiza maila phishingowego
-> Etap2 - Analiza logów powershella
-> Etap3 - Analiza logów pakietów internetowych
+TASK1
+W boxie tym naszym zadaniem jest przeanalizowanie TTPs'a wykonanego na maszynie.
+Całe zadanie zostało podzielone na 3 etapy:
+Etap1 - Analiza maila phishingowego
+Etap2 - Analiza logów powershella
+Etap3 - Analiza logów pakietów internetowych
 
 ---
 ## Task1
@@ -179,3 +179,4 @@ która odczyta plik pcap, nałoży filtr dns a następnie odpowiednio podzieli d
 
 
 A: 4024007128269551
+
