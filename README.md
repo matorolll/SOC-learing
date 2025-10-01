@@ -71,3 +71,16 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 29 | 29.09.2025 | Completing Nmap: The Basics room                           | Cyber Security 101 path - 21 Tasks |
 | 30 | 30.09.2025 | Completing Cryptography Basics room                        | Cyber Security 101 path - 12 Tasks |
 
+
+# October 2025
+
+| ID | Day  | Descriptions | Details |  
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 01.10.2025 | Completing Public Key Cryptography Basics room             | Cyber Security 101 path - 16 |
+| 2  | 02.10.2025 |      | SOC lvl 1 path - 103 Tasks |
+| 3  | 03.10.2025 |      | SOC lvl 1 path - 83 Tasks |
+| 4  | 04.10.2025 |      | SOC lvl 1 path - 29 Tasks |
+
+
+
+
