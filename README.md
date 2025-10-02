@@ -71,15 +71,17 @@ August marked the beginning of my adventure with the TryHackMe platform and the 
 | 29 | 29.09.2025 | Completing Nmap: The Basics room                           | Cyber Security 101 path - 21 Tasks |
 | 30 | 30.09.2025 | Completing Cryptography Basics room                        | Cyber Security 101 path - 12 Tasks |
 
+September was a continuation of my learning on the TryHackMe platform. This month, I completed 98% of the SOC Level 1 course, leaving only the preparations for certification for a quieter period. During this month, I also completed the Pre Security path to refresh my knowledge of the basics of the job. After work, I usually carefully completed one or two rooms from the Cyber Security 101 path. I finished the month in the top 3% of users on the site, with 100 rooms completed and 2,300 tasks completed. My current streak is already 61 days, and I don't intend to stop there. While learning this month, I discovered many useful tools, including Redline, TheHive, Tcpdump, and many more. I also completed my first serious CTF in preparation for certification. In my first month on the job, I had the opportunity to apply my newly learned technologies to solve real-world problems in a live environment.
+
 
 # October 2025
 
 | ID | Day  | Descriptions | Details |  
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | 01.10.2025 | Completing Public Key Cryptography Basics room             | Cyber Security 101 path - 16 |
-| 2  | 02.10.2025 |      | SOC lvl 1 path - 103 Tasks |
-| 3  | 03.10.2025 |      | SOC lvl 1 path - 83 Tasks |
-| 4  | 04.10.2025 |      | SOC lvl 1 path - 29 Tasks |
+| 2  | 02.10.2025 | Completing Hashing Basics room                             | Cyber Security 101 path - 25 Tasks |
+| 3  | 03.10.2025 |      | x path - x Tasks |
+| 4  | 04.10.2025 |      | x path - x Tasks |
 
 
 
