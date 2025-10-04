@@ -81,7 +81,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 1  | 01.10.2025 | Completing Public Key Cryptography Basics room             | Cyber Security 101 path - 16 |
 | 2  | 02.10.2025 | Completing Hashing Basics room                             | Cyber Security 101 path - 25 Tasks |
 | 3  | 03.10.2025 | Completing John the Ripper: The Basics room                | Cyber Security 101 path - 26 Tasks |
-| 4  | 04.10.2025 |      | x path - x Tasks |
+| 4  | 04.10.2025 | Compelting Moniker Link room                               | Cyber Security 101 path - 10 Tasks |
 
 
 
