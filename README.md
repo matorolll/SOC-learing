@@ -85,6 +85,8 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 5  | 05.10.2025 | Compelting Metasploit: Introductionk room                  | Cyber Security 101 path - 16 Tasks |
 | 6  | 06.10.2025 | Compelting Metasploit: Exploitation room                   | Cyber Security 101 path - 25 Tasks |
 | 7  | 07.10.2025 | Compelting Pentesting Fundamentals room                    | Jr Penetration Tester path - 12 Tasks |
+| 8  | 08.10.2025 | Compelting Principles of Security room                     | Jr Penetration Tester path - 17 Tasks |
+
 
 
 
