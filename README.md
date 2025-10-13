@@ -90,7 +90,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 10 | 10.10.2025 | Compelting Walking An Application room                     | Jr Penetration Tester path - 12 Tasks |
 | 11 | 11.10.2025 | Compelting Content Discovery, Subdomain Enumeration and Authentication Bypass rooms | Jr Penetration Tester path - 43 Tasks |
 | 12 | 12.10.2025 | Completing Boogeyman 2 room                                | SOC lvl 1 path - 32 Tasks |
-
+| 13 | 13.10.2025 | Completing Boogeyman 3 room                                | SOC lvl 1 path - 26 Tasks |
 
 
 
