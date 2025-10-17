@@ -93,7 +93,9 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 13 | 13.10.2025 | Completing Boogeyman 3 room                                | SOC lvl 1 path - 26 Tasks |
 | 14 | 14.10.2025 | Getting SOC L1 certification and Completing Blue room      | Cyber Security 101 path - 24 Tasks |
 | 15 | 15.10.2025 | Completing Web Application Basics room                     | Cyber Security 101 path - 38 Tasks |
-| 16 | 16.10.2025 | Completing JavaScript Essentials room                     | Cyber Security 101 path - 25 Tasks |
+| 16 | 16.10.2025 | Completing JavaScript Essentials room                      | Cyber Security 101 path - 25 Tasks |
+| 17 | 17.10.2025 | Completing SQL Fundamentals room                           | Cyber Security 101 path - 31 Tasks |
+
 
 
 
