@@ -96,6 +96,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 16 | 16.10.2025 | Completing JavaScript Essentials room                      | Cyber Security 101 path - 25 Tasks |
 | 17 | 17.10.2025 | Completing SQL Fundamentals room                           | Cyber Security 101 path - 31 Tasks |
 | 18 | 18.10.2025 | Entering Burp Suite: The Basics room                       | Cyber Security 101 path - 10 Tasks |
+| 19 | 19.10.2025 | Continuing Burp Suite: The Basics room                     | Cyber Security 101 path - 9 Tasks |
 
 
 
