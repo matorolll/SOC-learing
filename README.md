@@ -99,6 +99,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 19 | 19.10.2025 | Continuing Burp Suite: The Basics room                     | Cyber Security 101 path - 9 Tasks |
 | 20 | 20.10.2025 | Continuing Burp Suite: The Basics room                     | Cyber Security 101 path - 4 Tasks |
 | 21 | 21.10.2025 | Completing Burp Suite: The Basics room                     | Cyber Security 101 path - 7 Tasks |
+| 22 | 22.10.2025 | Entering OWASP Top 10 - 2021 room                          | Cyber Security 101 path - 28 Tasks |
 
 
 
