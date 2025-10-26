@@ -103,7 +103,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 23 | 23.10.2025 | Completing OWASP Top 10 - 2021 room                        | Cyber Security 101 path - 24 Tasks |
 | 24 | 24.10.2025 | Completing Hydra room                                      | Cyber Security 101 path - 5 Tasks |
 | 25 | 25.10.2025 | Entering Gobuster: The Basics room                         | Cyber Security 101 path - 5 Tasks |
-
+| 26 | 26.10.2025 | Completing Gobuster: The Basics room                       | Cyber Security 101 path - 9 Tasks |
 
 
 
