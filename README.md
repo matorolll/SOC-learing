@@ -104,6 +104,6 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 24 | 24.10.2025 | Completing Hydra room                                      | Cyber Security 101 path - 5 Tasks |
 | 25 | 25.10.2025 | Entering Gobuster: The Basics room                         | Cyber Security 101 path - 5 Tasks |
 | 26 | 26.10.2025 | Completing Gobuster: The Basics room                       | Cyber Security 101 path - 9 Tasks |
-
+| 27 | 27.10.2025 | Completing Shells Overview room                            | Cyber Security 101 path - 30 Tasks |
 
 
