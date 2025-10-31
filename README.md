@@ -108,5 +108,6 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 28 | 28.10.2025 | Completing SQLMap: The Basics and SOC Fundamentals rooms   | Cyber Security 101 path - 37 Tasks |
 | 29 | 29.10.2025 | Completing Digital Forensics Fundamentals room             | Cyber Security 101 path - 12 Tasks |
 | 30 | 30.10.2025 | Completing Incident Response and Logs Fundamentals rooms   | Cyber Security 101 path - 33 Tasks |
+| 31 | 31.10.2025 | Completing Firewall Fundamentals rooms                     | Cyber Security 101 path - 17 Tasks |
 
 
