@@ -111,3 +111,15 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 31 | 31.10.2025 | Completing Firewall Fundamentals rooms                     | Cyber Security 101 path - 17 Tasks |
 
 
+
+# November 2025
+
+| ID | Day  | Descriptions | Details |  
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 01.11.2025 | Completing IDS Fundamentals room                           | Cyber Security 101 path - 17 Tasks |
+
+
+
+
+
+
