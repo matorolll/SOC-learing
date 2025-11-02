@@ -117,6 +117,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | ID | Day  | Descriptions | Details |  
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | 01.11.2025 | Completing IDS Fundamentals room                           | Cyber Security 101 path - 17 Tasks |
+| 2  | 02.11.2025 | Completing Vulnerability Scanner Overview room             | Cyber Security 101 path - 29 Tasks |
 
 
 
