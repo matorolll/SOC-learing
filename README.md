@@ -110,6 +110,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | 30 | 30.10.2025 | Completing Incident Response and Logs Fundamentals rooms   | Cyber Security 101 path - 33 Tasks |
 | 31 | 31.10.2025 | Completing Firewall Fundamentals rooms                     | Cyber Security 101 path - 17 Tasks |
 
+October was another productive month. This month, I completed the SOC L1 course, which was the most important one for me. Then, I continued my previous courses and developed my red team skills in order to improve my abilities in this field as well.  On the tryhackme platform, I achieved a global user ranking of 27,000, which places me in the top 2% of users on the site. I have already completed 135 rooms and over 3,000 tasks since the beginning of my adventure. I currently have a streak of 93, which I hope will exceed three digits. This month, I also started many private projects, which resulted in fewer completed tasks.
 
 
 # November 2025
@@ -118,6 +119,7 @@ September was a continuation of my learning on the TryHackMe platform. This mont
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | 01.11.2025 | Completing IDS Fundamentals room                           | Cyber Security 101 path - 17 Tasks |
 | 2  | 02.11.2025 | Completing Vulnerability Scanner Overview room             | Cyber Security 101 path - 29 Tasks |
+| 3  | 03.11.2025 | Completing CyberChef: The Basics room                      | Cyber Security 101 path - 18 Tasks |
 
 
 
