@@ -122,6 +122,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 3  | 03.11.2025 | Completing CyberChef: The Basics room                      | Cyber Security 101 path - 18 Tasks |
 | 4  | 04.11.2025 | Completing CAPA: The Basics room                           | Cyber Security 101 path - 39 Tasks |
 | 5  | 05.11.2025 | Completing REMnux: Getting Started room                    | Cyber Security 101 path - 28 Tasks |
+| 6  | 06.11.2025 | Completing Cyber Security 101 path                         | Cyber Security 101 path - 52 Tasks |
 
 
 
