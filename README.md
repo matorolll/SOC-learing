@@ -127,6 +127,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 8  | 08.11.2025 | Completing Intro to SSRF room                              | Jr Penetration Tester path - 12 Tasks |
 | 9  | 09.11.2025 | Completing Intro to Cross-site Scripting room              | Jr Penetration Tester path - 16 Tasks |
 | 10 | 10.11.2025 | Completing Race Conditions room                            | Jr Penetration Tester path - 24 Tasks |
+| 11 | 11.11.2025 | Completing Command Injection room                          | Jr Penetration Tester path - 18 Tasks |
 
 
 
