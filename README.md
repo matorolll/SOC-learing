@@ -133,5 +133,6 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 14 | 14.11.2025 | Entering Burp Suite: Intruder room                         | Jr Penetration Tester path - 14 Tasks |
 | 15 | 15.11.2025 | Completing Burp Suite: Intruder room                       | Jr Penetration Tester path - 20 Tasks |
 | 16 | 16.11.2025 | Entering Burp Suite: Other Modules room                    | Jr Penetration Tester path - 13 Tasks |
+| 17 | 17.11.2025 | Completing Burp Suite: Other Modules room                  | Jr Penetration Tester path - 12 Tasks |
 
 
