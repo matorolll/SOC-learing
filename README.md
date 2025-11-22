@@ -138,5 +138,6 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 19 | 19.11.2025 | Completing Passive Reconnaissance room                     | Jr Penetration Tester path - 24 Tasks |
 | 20 | 20.11.2025 | Completing Active Reconnaissance room                      | Jr Penetration Tester path - 21 Tasks |
 | 21 | 21.11.2025 | Completing Nmap Live Host Discovery room                   | Jr Penetration Tester path - 27 Tasks |
+| 22 | 22.11.2025 | Completing Nmap Basic Port Scans room                      | Jr Penetration Tester path - 29 Tasks |
 
 
