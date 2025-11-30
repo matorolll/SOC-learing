@@ -146,6 +146,6 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 27 | 27.11.2025 | Completing Net Sec Challenge room                          | Jr Penetration Tester path - 12 Tasks |
 | 28 | 28.11.2025 | Completing Vulnerabilities 101 room                        | Jr Penetration Tester path - 13 Tasks |
 | 29 | 29.11.2025 | Completing Exploit Vulnerabilities room                    | Jr Penetration Tester path - 14 Tasks |
-| 30 | 30.11.2025 | Completing x room                    | Jr Penetration Tester path - x Tasks |
+| 30 | 30.11.2025 | Completing Vulnerability Capstone room                     | Jr Penetration Tester path - 11 Tasks |
 
 
