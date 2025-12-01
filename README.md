@@ -149,3 +149,8 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 30 | 30.11.2025 | Completing Vulnerability Capstone room                     | Jr Penetration Tester path - 11 Tasks |
 
 
+
+
+| 1 | 01.12.2025 | Entering What the Shell? room                               | Jr Penetration Tester path - 20 Tasks |
+
+
