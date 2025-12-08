@@ -158,6 +158,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 5 | 05.12.2025 | Completing Advent of Cyber Prep Track room                  | Jr Penetration Tester path - 10 Tasks |
 | 6 | 06.12.2025 | Completing Linux Privilege Escalation room                  | Jr Penetration Tester path - 20 Tasks |
 | 7 | 07.12.2025 | Entering Windows Privilege Escalation room                  | Jr Penetration Tester path - 14 Tasks |
+| 8 | 08.12.2025 | Completing Jr Penetration Tester path                       | Jr Penetration Tester path - 13 Tasks |
 
 
 
