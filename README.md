@@ -159,6 +159,8 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 6 | 06.12.2025 | Completing Linux Privilege Escalation room                  | Jr Penetration Tester path - 20 Tasks |
 | 7 | 07.12.2025 | Entering Windows Privilege Escalation room                  | Jr Penetration Tester path - 14 Tasks |
 | 8 | 08.12.2025 | Completing Jr Penetration Tester path                       | Jr Penetration Tester path - 13 Tasks |
+| 9 | 09.12.2025 | Completing Burp Suite: The Basics room                      | Web Hacking Fundamentals path - 13 Tasks |
+| 9 | 09.12.2025 | Completing OWASP API Security Top 10 - 1 room               | Web Hacking Fundamentals path - 42 Tasks |
 
 
 
