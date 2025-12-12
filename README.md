@@ -165,7 +165,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 9  | 09.12.2025 | Completing Burp Suite: The Basics room                     | Web Hacking Fundamentals path - 13 Tasks |
 | 10 | 10.12.2025 | Completing OWASP API Security Top 10 - 1 room              | Web Hacking Fundamentals path - 42 Tasks |
 | 11 | 11.12.2025 | Completing OWASP Juice Shop room                           | Web Hacking Fundamentals path - 24 Tasks |
-
+| 12 | 12.12.2025 | Completing Phishing - Merry Clickmas room                  | adventofcyber25 - 25 Tasks |
 
 
 
