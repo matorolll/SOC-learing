@@ -167,6 +167,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 11 | 11.12.2025 | Completing OWASP Juice Shop room                           | Web Hacking Fundamentals path - 24 Tasks |
 | 12 | 12.12.2025 | Completing Phishing - Merry Clickmas room                  | adventofcyber25 - 25 Tasks |
 | 13 | 13.12.2025 | Completing AI in Security - old sAInt nick room            | adventofcyber25 - 77 Tasks |
+| 14 | 14.12.2025 | Completing IDOR - Santa’s Little IDOR room                 | adventofcyber25 - 80 Tasks |
 
 
 
