@@ -168,6 +168,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 12 | 12.12.2025 | Completing Phishing - Merry Clickmas room                  | adventofcyber25 - 25 Tasks |
 | 13 | 13.12.2025 | Completing AI in Security - old sAInt nick room            | adventofcyber25 - 77 Tasks |
 | 14 | 14.12.2025 | Completing IDOR - Santa’s Little IDOR room                 | adventofcyber25 - 80 Tasks |
+| 15 | 15.12.2025 | Completing Prompt Injection - Sched-yule conflict room     | adventofcyber25 - 24 Tasks |
 
 
 
