@@ -172,6 +172,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 16 | 16.12.2025 | Completing SOC Alert Triaging - Tinsel Triage room         | adventofcyber25 - 24 Tasks |
 | 17 | 17.12.2025 | Completing XSS - Merry XSSMas room                         | adventofcyber25 - 14 Tasks |
 | 18 | 18.12.2025 | Completing Phishing - Phishmas Greetings room              | adventofcyber25 - 12 Tasks |
+| 19 | 19.12.2025 | Completing Containers - DoorDasher's Demise room           | adventofcyber25 - 18 Tasks |
 
 
 
