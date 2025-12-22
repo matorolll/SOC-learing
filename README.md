@@ -175,6 +175,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 19 | 19.12.2025 | Completing Containers - DoorDasher's Demise room           | adventofcyber25 - 18 Tasks |
 | 20 | 20.12.2025 | Completing Web Attack Forensics - Drone Alone room         | adventofcyber25 - 8 Tasks |
 | 21 | 21.12.2025 | Completing Forensics - Registry Furensics room             | adventofcyber25 - 8 Tasks |
+| 22 | 22.12.2025 | Completing Obfuscation - The Egg Shell File room           | adventofcyber25 - 32 Tasks |
 
 
 
