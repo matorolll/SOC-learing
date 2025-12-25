@@ -178,6 +178,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 22 | 22.12.2025 | Completing Obfuscation - The Egg Shell File room           | adventofcyber25 - 32 Tasks |
 | 23 | 23.12.2025 | Completing C2 Detection - Command & Carol room             | adventofcyber25 - 56 Tasks |
 | 24 | 24.12.2025 | Completing Exploitation with cURL room                     | adventofcyber25 - 23 Tasks |
+| 25 | 25.12.2025 | Completing Upload Vulnerabilities room                     | Web Hacking Fundamentals path - 27 Tasks |
 
 
 
