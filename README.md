@@ -180,3 +180,5 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 24 | 24.12.2025 | Completing Exploitation with cURL room                     | adventofcyber25 - 23 Tasks |
 | 25 | 25.12.2025 | Completing Upload Vulnerabilities room                     | Web Hacking Fundamentals path - 27 Tasks |
 | 26 | 26.12.2025 | Completing OWASP Top 10 2025 part 1 room                   | Web Hacking Fundamentals path - 40 Tasks |
+| 27 | 27.12.2025 | Completing Web Hacking Fundamentals path                   | Web Hacking Fundamentals path - 8 Tasks |
+
