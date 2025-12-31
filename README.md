@@ -184,4 +184,5 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 28 | 28.12.2025 | Completing Blue Team Introduction rooms                    | SOC Level 1 (renewed) path - 39 Tasks |
 | 29 | 29.12.2025 | Completing SOC L1 Alert Triage room                        | SOC Level 1 (renewed) path - 16 Tasks |
 | 30 | 30.12.2025 | Completing SOC Workbooks and Lookup room                   | SOC Level 1 (renewed) path - 37 Tasks |
+| 31 | 31.12.2025 | Completing SOC Team Internals rooms                        | SOC Level 1 (renewed) path - 18 Tasks |
 
