@@ -148,7 +148,7 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 29 | 29.11.2025 | Completing Exploit Vulnerabilities room                    | Jr Penetration Tester path - 14 Tasks |
 | 30 | 30.11.2025 | Completing Vulnerability Capstone room                     | Jr Penetration Tester path - 11 Tasks |
 
-
+November was a very productive and well-structured month. During this time, I completed the Cyber Security 101 path, building a strong foundation in areas such as IDS, vulnerability scanning, malware analysis tools, and digital forensics. After that, I focused heavily on the Jr Penetration Tester path, where I developed practical skills in web vulnerabilities (IDOR, XSS, SQLi, SSRF), request manipulation with Burp Suite, reconnaissance techniques, and extensive Nmap scanning. Overall, November was a month of solid fundamentals and consistent progress toward offensive security and penetration testing skills.
 
 # December 2025
 
@@ -185,4 +185,15 @@ October was another productive month. This month, I completed the SOC L1 course,
 | 29 | 29.12.2025 | Completing SOC L1 Alert Triage room                        | SOC Level 1 (renewed) path - 16 Tasks |
 | 30 | 30.12.2025 | Completing SOC Workbooks and Lookup room                   | SOC Level 1 (renewed) path - 37 Tasks |
 | 31 | 31.12.2025 | Completing SOC Team Internals rooms                        | SOC Level 1 (renewed) path - 18 Tasks |
+
+
+December was another very productive month. During this time, I completed the Jr Penetration Tester path, which was one of my main goals. I also focused heavily on Web Hacking Fundamentals, improving my knowledge of OWASP Top 10, web vulnerabilities, and tools like Burp Suite. A significant part of the month was dedicated to Advent of Cyber 2025, where I worked daily on a wide range of topics, including phishing, XSS, IDOR, forensics, and C2 detection. Toward the end of the month, I started the renewed SOC Level 1 path, reviving experience in alert triage and SOC operations.
+Overall, this month and throughout the year, I completed 4,444 tasks, took part in 205 rooms, and maintained a 153-day learning streak. I am currently ranked 17,149 globally, placing me in the top 1% of users on the entire platform.
+
+
+# January 2026
+
+| ID | Day  | Descriptions | Details |  
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | 01.01.2025 | Completing Introduction to EDR room                        | SOC Level 1 (renewed) path - 25 Tasks |
 
