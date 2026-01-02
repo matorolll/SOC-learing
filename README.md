@@ -195,5 +195,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 
 | ID | Day  | Descriptions | Details |  
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 01.01.2025 | Completing Introduction to EDR room                        | SOC Level 1 (renewed) path - 25 Tasks |
+| 1 | 01.01.2025 | Completing Introduction to EDR room                         | SOC Level 1 (renewed) path - 25 Tasks |
+| 2 | 02.01.2025 | Completing Network Traffic Basics room                      | SOC Level 1 (renewed) path - 26 Tasks |
 
