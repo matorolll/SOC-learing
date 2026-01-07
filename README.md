@@ -201,3 +201,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 4 | 04.01.2025 | Completing Network Discovery Detection room                 | SOC Level 1 (renewed) path - 28 Tasks |
 | 5 | 05.01.2025 | Entering Data Exfiltration Detection room                   | SOC Level 1 (renewed) path - 5 Tasks |
 | 6 | 06.01.2025 | Completing Data Exfiltration Detection room                 | SOC Level 1 (renewed) path - 6 Tasks |
+| 7 | 07.01.2025 | Entering Man-in-the-Middle Detection room                   | SOC Level 1 (renewed) path - 7 Tasks |
+
