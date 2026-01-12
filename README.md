@@ -204,7 +204,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 7  | 07.01.2025 | Entering Man-in-the-Middle Detection room                  | SOC Level 1 (renewed) path - 7 Tasks  |
 | 8  | 08.01.2025 | Completing Man-in-the-Middle Detection room                | SOC Level 1 (renewed) path - 8 Tasks  |
 | 9  | 09.01.2025 | Entering Web Security Essentials room                      | SOC Level 1 (renewed) path - 9 Tasks  |
-| 10 | 10.01.2025 | Continuing Web Security Essentials room                    | SOC Level 1 (renewed) path - 10 Tasks |
-| 11 | 11.01.2025 | Completing Web Security Essentials room                    | SOC Level 1 (renewed) path - 11 Tasks |
-
+| 10 | 10.01.2025 | Completing Web Security Essentials room                    | SOC Level 1 (renewed) path - 10 Tasks |
+| 11 | 11.01.2025 | Entering Web Security Essentials room                      | SOC Level 1 (renewed) path - 11 Tasks |
+| 12 | 12.01.2025 | Completing Detecting Web Attacks room                      | SOC Level 1 (renewed) path - 12 Tasks |
 
