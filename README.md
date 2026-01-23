@@ -217,5 +217,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 20 | 20.01.2025 | Completing Windows Threat Detection room                   | SOC Level 1 (renewed) path - 20 Tasks |
 | 21 | 21.01.2025 | Completing Windows Threat Detection 3 room                 | SOC Level 1 (renewed) path - 21 Tasks |
 | 22 | 22.01.2025 | Entering Linux Logging for SOC room                        | SOC Level 1 (renewed) path - 22 Tasks |
+| 23 | 23.01.2025 | Completing Linux Logging for SOC room                      | SOC Level 1 (renewed) path - 23 Tasks |
+| 24 | 24.01.2025 | Completing Linux Threat Detection 1 room                   | SOC Level 1 (renewed) path - 24 Tasks |
 
 
