@@ -220,5 +220,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 23 | 23.01.2025 | Completing Linux Logging for SOC room                      | SOC Level 1 (renewed) path - 23 Tasks |
 | 24 | 24.01.2025 | Taking part in First Shift CTF                             | CTF mood - 88 Tasks |
 | 25 | 25.01.2025 | Completing Linux Threat Detection room                     | SOC Level 1 (renewed) path - 25 Tasks |
+| 26 | 26.01.2025 | Completing Linux Threat Detection 2 & 3 room               | SOC Level 1 (renewed) path - 26 Tasks |
 
 
