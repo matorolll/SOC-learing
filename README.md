@@ -224,5 +224,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 27 | 27.01.2025 | Completing Intro to Malware Analysis path                  | SOC Level 1 (renewed) path - 27 Tasks |
 | 28 | 28.01.2025 | Completing Malware Concepts for SOC path                   | SOC Level 1 (renewed) path - 33 Tasks |
 | 29 | 29.01.2025 | Completing File and Hash Threat Intel room                 | SOC Level 1 (renewed) path - 46 Tasks |
+| 30 | 30.01.2025 | Completing IP and Domain Threat Intel room                 | SOC Level 1 (renewed) path - 30 Tasks |
 
 
