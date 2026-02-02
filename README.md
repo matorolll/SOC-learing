@@ -226,7 +226,8 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 29 | 29.01.2025 | Completing File and Hash Threat Intel room                 | SOC Level 1 (renewed) path - 46 Tasks |
 | 30 | 30.01.2025 | Completing IP and Domain Threat Intel room                 | SOC Level 1 (renewed) path - 30 Tasks |
 | 31 | 31.01.2025 | Completing Invite Only room                                | SOC Level 1 (renewed) path - 31 Tasks |
-
-| 32 | 01.02.2025 | Log Analysis with SIEM room                                | SOC Level 1 (renewed) path - 32 Tasks |
+| | | | |
+| 32 | 01.02.2025 | Completing Log Analysis with SIEM room                     | SOC Level 1 (renewed) path - 32 Tasks |
+| 33 | 02.02.2025 | Completing Alert Triage With Elastic room                  | SOC Level 1 (renewed) path - 33 Tasks |
 
 
