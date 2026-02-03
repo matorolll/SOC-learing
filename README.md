@@ -229,5 +229,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | | | | |
 | 32 | 01.02.2025 | Completing Log Analysis with SIEM room                     | SOC Level 1 (renewed) path - 32 Tasks |
 | 33 | 02.02.2025 | Completing Alert Triage With Elastic room                  | SOC Level 1 (renewed) path - 33 Tasks |
+| 34 | 03.02.2025 | Completing SOC L1 (renewed),starting part in SOC L2 path   | SOC Level 1 (renewed) path - 34 Tasks |
 
 
