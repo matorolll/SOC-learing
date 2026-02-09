@@ -235,5 +235,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 36 | 06.02.2025 | Completing Splunk: Setting up a SOC Lab room               | SOC Level 2 path - 37 Tasks |
 | 37 | 07.02.2025 | Completing CrackTheHash and ToolsRus rooms                 | CTF mood - 40 Tasks |
 | 38 | 08.02.2025 | Completing a lot simple ctf on tryhackme                   | CTF mood - 38 Tasks |
-
-
+| 39 | 09.02.2025 | Completing Advanced Splunk path                            | SOC Level 2 path - 45 Tasks |
