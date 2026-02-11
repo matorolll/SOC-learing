@@ -236,5 +236,8 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 38 | 07.02.2025 | Completing CrackTheHash and ToolsRus rooms                 | CTF mood - 40 Tasks |
 | 39 | 08.02.2025 | Completing a lot simple ctf on tryhackme                   | CTF mood - 38 Tasks |
 | 40 | 09.02.2025 | Completing Advanced Splunk path                            | SOC Level 2 path - 45 Tasks |
-| 41 | 10.02.2025 | Entering Logstash: Data Processing Unit                    | SOC Level 2 path - 41 Tasks |
+| 41 | 10.02.2025 | Entering Logstash: Data Processing Unit room               | SOC Level 2 path - 41 Tasks |
+| 42 | 11.02.2025 | Completing Logstash and Custom Alert Rules in Wazuh        | SOC Level 2 path - 42 Tasks |
+
+
 
