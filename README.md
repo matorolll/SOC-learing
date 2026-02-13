@@ -239,6 +239,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 41 | 10.02.2025 | Entering Logstash: Data Processing Unit room               | SOC Level 2 path - 41 Tasks |
 | 42 | 11.02.2025 | Completing Logstash and Custom Alert Rules in Wazuh rooms  | SOC Level 2 path - 42 Tasks |
 | 43 | 12.02.2025 | Completing Slingshot room                                  | SOC Level 2 path - 43 Tasks |
-
-
+| 44 | 13.02.2025 | Completing Tactical Detection room                         | SOC Level 2 path - 44 Tasks |
 
