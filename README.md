@@ -240,5 +240,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 42 | 11.02.2025 | Completing Logstash and Custom Alert Rules in Wazuh rooms  | SOC Level 2 path - 42 Tasks |
 | 43 | 12.02.2025 | Completing Slingshot room                                  | SOC Level 2 path - 43 Tasks |
 | 44 | 13.02.2025 | Completing Tactical Detection room                         | SOC Level 2 path - 44 Tasks |
-| 44 | 13.02.2025 | Taking part Love at First Breach CTF room                  | CTF mood - 47 Tasks |
+| 44 | 14.02.2025 | Taking part Love at First Breach CTF room                  | CTF mood - 47 Tasks |
+| 45 | 15.02.2025 | Completing Love at First Breach CTF room                   | CTF mood - 47 Tasks |
 
