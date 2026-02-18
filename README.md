@@ -244,4 +244,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 46 | 15.02.2025 | Completing Love at First Breach CTF room                   | CTF mood - 47 Tasks |
 | 47 | 16.02.2025 | Completing SigHunt and Sigma room                          | SOC Level 2 path - 48 Tasks |
 | 48 | 17.02.2025 | Completing Detection Engineering path                      | SOC Level 2 path - 48 Tasks |
+| 49 | 18.02.2025 | Completing Juicy Details and Threat Hunting:Foothold rooms | SOC Level 2 path - 51 Tasks |
 
