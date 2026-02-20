@@ -246,4 +246,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 48 | 17.02.2025 | Completing Detection Engineering path                      | SOC Level 2 path - 48 Tasks |
 | 49 | 18.02.2025 | Completing Juicy Details and Threat Hunting:Foothold rooms | SOC Level 2 path - 51 Tasks |
 | 50 | 19.02.2025 | Completing Threat Hunting: Pivoting and Endgames rooms     | SOC Level 2 path - 50 Tasks |
+| 51 | 20.02.2025 | Completing Hunt Me I: Payment Collectors rooms             | SOC Level 2 path - 6 Tasks |
+
 
