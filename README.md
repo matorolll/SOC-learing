@@ -249,5 +249,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 51 | 20.02.2025 | Completing Hunt Me I: Payment Collectors rooms             | SOC Level 2 path - 6 Tasks |
 | 52 | 21.02.2025 | Completing Clocky CTF rooms                                | CTF mood - 11 Tasks |
 | 53 | 22.02.2025 | Completing RootMe CTF rooms                                | CTF mood - 16 Tasks |
-
-
+| 54 | 23.02.2025 | Completing Hunt Me II: Typo Squatters rooms                | SOC Level 2 path - 26 Tasks  |
