@@ -252,3 +252,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 54 | 23.02.2025 | Completing Hunt Me II: Typo Squatters rooms                | SOC Level 2 path - 26 Tasks  |
 | 55 | 24.02.2025 | Completing Silver Platter CTF rooms                        | CTF mood - 5 Tasks |
 | 56 | 25.02.2025 | Completing Basic Pentesting CTF rooms                      | CTF mood - 14 Tasks |
+| 57 | 26.02.2025 | Completing Simple CTF rooms                                | CTF mood - 16 Tasks |
