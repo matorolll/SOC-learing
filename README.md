@@ -253,3 +253,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 55 | 24.02.2025 | Completing Silver Platter CTF rooms                        | CTF mood - 5 Tasks |
 | 56 | 25.02.2025 | Completing Basic Pentesting CTF rooms                      | CTF mood - 14 Tasks |
 | 57 | 26.02.2025 | Completing Simple CTF rooms                                | CTF mood - 16 Tasks |
+| 58 | 27.02.2025 | Completing W1seGuy CTF rooms                               | CTF mood - 9 Tasks |
