@@ -255,4 +255,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 57 | 26.02.2025 | Completing Simple CTF rooms                                | CTF mood - 16 Tasks |
 | 58 | 27.02.2025 | Completing W1seGuy CTF rooms                               | CTF mood - 9 Tasks |
 | 59 | 28.02.2025 | Completing LookUp CTF rooms                                | CTF mood - 5 Tasks |
-
+| 60 | 01.03.2025 | Completing Become a Defender room                          | CTF mood - 10 Tasks |
