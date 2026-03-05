@@ -259,4 +259,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 61 | 02.03.2025 | Completing Inside a Computer System room                   | Pre Security (New) - 7 Tasks |
 | 62 | 03.03.2025 | Entering Intro to Threat Emulation room                    | SOC Level 2 path - 7 Tasks |
 | 63 | 04.03.2025 | Completing Operation Slithern room                         | SOC Level 2 path - 12 Tasks |
+| 64 | 05.03.2025 | Completing Intro to Threat Emulation room                  | SOC Level 2 path - 10 Tasks |
 
