@@ -262,4 +262,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 64 | 05.03.2025 | Completing Intro to Threat Emulation room                  | SOC Level 2 path - 10 Tasks |
 | 65 | 06.03.2025 | Completing muliple small CTF rooms                         | CTF mood - 25 Tasks |
 | 66 | 07.03.2025 | Completing Farewell CTF rooms                              | CTF mood - 8 Tasks |
+| 67 | 08.03.2025 | Completing Order and DarkMatter CTF rooms                  | CTF mood - 6 Tasks |
 
