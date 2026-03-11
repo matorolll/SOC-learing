@@ -265,4 +265,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 67 | 08.03.2025 | Completing Order and DarkMatter CTF rooms                  | CTF mood - 6 Tasks |
 | 68 | 09.03.2025 | Entering Threat Modeling room                              | SOC Level 2 path - 7 Tasks |
 | 69 | 10.03.2025 | Continuing Threat Modeling room                            | SOC Level 2 path - 6 Tasks |
+| 70 | 11.03.2025 | Completing Threat Modeling room                            | SOC Level 2 path - 15 Tasks |
 
