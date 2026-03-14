@@ -267,4 +267,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 69 | 10.03.2025 | Continuing Threat Modeling room                            | SOC Level 2 path - 6 Tasks |
 | 70 | 11.03.2025 | Completing Threat Modeling room                            | SOC Level 2 path - 15 Tasks |
 | 71 | 12.03.2025 | Entering Atomic Red Team room                              | SOC Level 2 path - 5 Tasks |
+| 72 | 13.03.2025 | Continuing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
+| 73 | 14.03.2025 | Continuing Atomic Red Team room                            | SOC Level 2 path - 6 Tasks |
 
