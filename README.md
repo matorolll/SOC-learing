@@ -269,4 +269,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 71 | 12.03.2025 | Entering Atomic Red Team room                              | SOC Level 2 path - 5 Tasks |
 | 72 | 13.03.2025 | Continuing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
 | 73 | 14.03.2025 | Continuing Atomic Red Team room                            | SOC Level 2 path - 6 Tasks |
+| 74 | 15.03.2025 | Completing LoFi CTF room                                   | CTF mood - 5 Tasks |
 
