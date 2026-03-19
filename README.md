@@ -273,4 +273,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 75 | 16.03.2025 | Completing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
 | 76 | 17.03.2025 | Entering Caldera room                                      | SOC Level 2 path - 7 Tasks |
 | 77 | 18.03.2025 | Continuing Caldera room                                    | SOC Level 2 path - 10 Tasks |
+| 78 | 19.03.2025 | Continuing Caldera room                                    | SOC Level 2 path - 19 Tasks |
 
