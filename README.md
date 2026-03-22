@@ -276,4 +276,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 78 | 19.03.2025 | Continuing Caldera room                                    | SOC Level 2 path - 19 Tasks |
 | 79 | 20.03.2025 | Completing Caldera room                                    | SOC Level 2 path - 20 Tasks |
 | 80 | 21.03.2025 | Entering Security Engineer Intro room                      | Security Engineer path - 10 Tasks |
+| 81 | 22.03.2025 | Continuing Security Engineer Intro room                    | Security Engineer path - 6 Tasks |
 
