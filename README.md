@@ -282,6 +282,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 84 | 25.03.2025 | Completing Atomic Bird Goes Purple #2 room                 | SOC Level 2 path - 16 Tasks  |
 | 85 | 26.03.2025 | Completing Preparation room                                | SOC Level 2 path - 16 Tasks  |
 | 86 | 27.03.2025 | Completing SlingShot (renewd) room                         | SOC Level 2 path - 16 Tasks  |
+| 87 | 28.03.2025 | Completing FixIt (renewd) room                             | SOC Level 2 path - 15 Tasks  |
 
 
 
