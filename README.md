@@ -283,6 +283,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 85 | 26.03.2025 | Completing Preparation room                                | SOC Level 2 path - 16 Tasks  |
 | 86 | 27.03.2025 | Completing SlingShot (renewd) room                         | SOC Level 2 path - 16 Tasks  |
 | 87 | 28.03.2025 | Completing FixIt (renewd) room                             | SOC Level 2 path - 15 Tasks  |
+| 88 | 29.03.2025 | Completing Digital Footprint room                          | CTF mood - 16 Tasks  |
 
 
 
