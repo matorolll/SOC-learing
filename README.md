@@ -285,6 +285,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 87 | 28.03.2025 | Completing FixIt (renewd) room                             | SOC Level 2 path - 15 Tasks  |
 | 88 | 29.03.2025 | Completing Digital Footprint room                          | CTF mood - 16 Tasks  |
 | 89 | 30.03.2025 | PrintNightmare, again! room                                | CTF mood - 11 Tasks  |
+| 90 | 31.03.2025 | Completing Splunk: Exploring SPL (renewed) room            | CTF mood - 8 Tasks  |
 
 
 
