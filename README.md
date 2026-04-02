@@ -287,3 +287,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 89 | 30.03.2025 | PrintNightmare, again! room                                | CTF mood - 11 Tasks  |
 | 90 | 31.03.2025 | Completing Splunk: Exploring SPL (renewed) room            | CTF mood - 8 Tasks  |
 | 91 | 01.04.2025 | Completing Splunk: Dashboards and Reports (renewed) room   | CTF mood - 12 Tasks  |
+| 92 | 02.04.2025 | Completing Splunk (fixing missing rooms after update) room | SOC Level 2 path - 15 Tasks  |
