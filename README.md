@@ -289,3 +289,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 91 | 01.04.2025 | Completing Splunk: Dashboards and Reports (renewed) room   | CTF mood - 12 Tasks  |
 | 92 | 02.04.2025 | Completing Splunk (fixing missing rooms after update) room | SOC Level 2 path - 15 Tasks  |
 | 93 | 03.04.2025 | Entering Splunk Identification & Scoping room              | SOC Level 2 path - 4 Tasks  |
+| 94 | 04.04.2025 | Continuing Splunk Identification & Scoping room              | SOC Level 2 path - 7 Tasks  |
