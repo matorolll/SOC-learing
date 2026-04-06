@@ -195,99 +195,103 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 
 | ID | Day  | Descriptions | Details |  
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | 01.01.2025 | Completing Introduction to EDR room                        | SOC Level 1 (renewed) path - 25 Tasks |
-| 2  | 02.01.2025 | Completing Network Traffic Basics room                     | SOC Level 1 (renewed) path - 26 Tasks |
-| 3  | 03.01.2025 | Completing Network Security Essentials room                | SOC Level 1 (renewed) path - 27 Tasks |
-| 4  | 04.01.2025 | Completing Network Discovery Detection room                | SOC Level 1 (renewed) path - 28 Tasks |
-| 5  | 05.01.2025 | Entering Data Exfiltration Detection room                  | SOC Level 1 (renewed) path - 5 Tasks  |
-| 6  | 06.01.2025 | Completing Data Exfiltration Detection room                | SOC Level 1 (renewed) path - 6 Tasks  |
-| 7  | 07.01.2025 | Entering Man-in-the-Middle Detection room                  | SOC Level 1 (renewed) path - 7 Tasks  |
-| 8  | 08.01.2025 | Completing Man-in-the-Middle Detection room                | SOC Level 1 (renewed) path - 8 Tasks  |
-| 9  | 09.01.2025 | Entering Web Security Essentials room                      | SOC Level 1 (renewed) path - 9 Tasks  |
-| 10 | 10.01.2025 | Completing Web Security Essentials room                    | SOC Level 1 (renewed) path - 10 Tasks |
-| 11 | 11.01.2025 | Entering Web Security Essentials room                      | SOC Level 1 (renewed) path - 11 Tasks |
-| 12 | 12.01.2025 | Completing Detecting Web Attacks room                      | SOC Level 1 (renewed) path - 12 Tasks |
-| 13 | 13.01.2025 | Entering Detecting Web Shells room                         | SOC Level 1 (renewed) path - 13 Tasks |
-| 14 | 14.01.2025 | Completing Detecting Web Shells room                       | SOC Level 1 (renewed) path - 14 Tasks |
-| 15 | 15.01.2025 | Entering Detecting Web DDoS room                           | SOC Level 1 (renewed) path - 15 Tasks |
-| 16 | 16.01.2025 | Completing Detecting Web DDoS room                         | SOC Level 1 (renewed) path - 16 Tasks |
-| 17 | 17.01.2025 | Entering Windows Logging for SOC room                      | SOC Level 1 (renewed) path - 17 Tasks |
-| 18 | 18.01.2025 | Completing Windows Logging for SOC room                    | SOC Level 1 (renewed) path - 18 Tasks |
-| 19 | 19.01.2025 | Entering Windows Threat Detection room                     | SOC Level 1 (renewed) path - 19 Tasks |
-| 20 | 20.01.2025 | Completing Windows Threat Detection room                   | SOC Level 1 (renewed) path - 20 Tasks |
-| 21 | 21.01.2025 | Completing Windows Threat Detection 3 room                 | SOC Level 1 (renewed) path - 21 Tasks |
-| 22 | 22.01.2025 | Entering Linux Logging for SOC room                        | SOC Level 1 (renewed) path - 22 Tasks |
-| 23 | 23.01.2025 | Completing Linux Logging for SOC room                      | SOC Level 1 (renewed) path - 23 Tasks |
-| 24 | 24.01.2025 | Taking part in First Shift CTF                             | CTF mood - 88 Tasks |
-| 25 | 25.01.2025 | Completing Linux Threat Detection room                     | SOC Level 1 (renewed) path - 25 Tasks |
-| 26 | 26.01.2025 | Completing Linux Threat Detection 2 & 3 room               | SOC Level 1 (renewed) path - 26 Tasks |
-| 27 | 27.01.2025 | Completing Intro to Malware Analysis path                  | SOC Level 1 (renewed) path - 27 Tasks |
-| 28 | 28.01.2025 | Completing Malware Concepts for SOC path                   | SOC Level 1 (renewed) path - 33 Tasks |
-| 29 | 29.01.2025 | Completing File and Hash Threat Intel room                 | SOC Level 1 (renewed) path - 46 Tasks |
-| 30 | 30.01.2025 | Completing IP and Domain Threat Intel room                 | SOC Level 1 (renewed) path - 30 Tasks |
-| 31 | 31.01.2025 | Completing Invite Only room                                | SOC Level 1 (renewed) path - 31 Tasks |
-| | | | |
-| 32 | 01.02.2025 | Completing Log Analysis with SIEM room                     | SOC Level 1 (renewed) path - 32 Tasks |
-| 33 | 02.02.2025 | Completing Alert Triage With Elastic room                  | SOC Level 1 (renewed) path - 33 Tasks |
-| 34 | 03.02.2025 | Completing SOC L1 (renewed),starting part in SOC L2 path   | SOC Level 2 path - 34 Tasks |
-| 35 | 04.02.2025 | Completing Log Analysis rooms                              | SOC Level 2 path - 35 Tasks |
-| 36 | 05.02.2025 | Completing Splunk: Exploring SPL room                      | SOC Level 2 path - 36 Tasks |
-| 37 | 06.02.2025 | Completing Splunk: Setting up a SOC Lab room               | SOC Level 2 path - 37 Tasks |
-| 38 | 07.02.2025 | Completing CrackTheHash and ToolsRus rooms                 | CTF mood - 40 Tasks |
-| 39 | 08.02.2025 | Completing a lot simple ctf on tryhackme                   | CTF mood - 38 Tasks |
-| 40 | 09.02.2025 | Completing Advanced Splunk path                            | SOC Level 2 path - 45 Tasks |
-| 41 | 10.02.2025 | Entering Logstash: Data Processing Unit room               | SOC Level 2 path - 41 Tasks |
-| 42 | 11.02.2025 | Completing Logstash and Custom Alert Rules in Wazuh rooms  | SOC Level 2 path - 42 Tasks |
-| 43 | 12.02.2025 | Completing Slingshot room                                  | SOC Level 2 path - 43 Tasks |
-| 44 | 13.02.2025 | Completing Tactical Detection room                         | SOC Level 2 path - 44 Tasks |
-| 45 | 14.02.2025 | Taking part Love at First Breach CTF room                  | CTF mood - 47 Tasks |
-| 46 | 15.02.2025 | Completing Love at First Breach CTF room                   | CTF mood - 47 Tasks |
-| 47 | 16.02.2025 | Completing SigHunt and Sigma room                          | SOC Level 2 path - 48 Tasks |
-| 48 | 17.02.2025 | Completing Detection Engineering path                      | SOC Level 2 path - 48 Tasks |
-| 49 | 18.02.2025 | Completing Juicy Details and Threat Hunting:Foothold rooms | SOC Level 2 path - 51 Tasks |
-| 50 | 19.02.2025 | Completing Threat Hunting: Pivoting and Endgames rooms     | SOC Level 2 path - 50 Tasks |
-| 51 | 20.02.2025 | Completing Hunt Me I: Payment Collectors rooms             | SOC Level 2 path - 6 Tasks |
-| 52 | 21.02.2025 | Completing Clocky CTF rooms                                | CTF mood - 11 Tasks |
-| 53 | 22.02.2025 | Completing RootMe CTF rooms                                | CTF mood - 16 Tasks |
-| 54 | 23.02.2025 | Completing Hunt Me II: Typo Squatters rooms                | SOC Level 2 path - 26 Tasks  |
-| 55 | 24.02.2025 | Completing Silver Platter CTF rooms                        | CTF mood - 5 Tasks |
-| 56 | 25.02.2025 | Completing Basic Pentesting CTF rooms                      | CTF mood - 14 Tasks |
-| 57 | 26.02.2025 | Completing Simple CTF rooms                                | CTF mood - 16 Tasks |
-| 58 | 27.02.2025 | Completing W1seGuy CTF rooms                               | CTF mood - 9 Tasks |
-| 59 | 28.02.2025 | Completing LookUp CTF rooms                                | CTF mood - 5 Tasks |
-| 60 | 01.03.2025 | Completing Become a Defender room                          | CTF mood - 10 Tasks |
-| 61 | 02.03.2025 | Completing Inside a Computer System room                   | Pre Security (New) - 7 Tasks |
-| 62 | 03.03.2025 | Entering Intro to Threat Emulation room                    | SOC Level 2 path - 7 Tasks |
-| 63 | 04.03.2025 | Completing Operation Slithern room                         | SOC Level 2 path - 12 Tasks |
-| 64 | 05.03.2025 | Completing Intro to Threat Emulation room                  | SOC Level 2 path - 10 Tasks |
-| 65 | 06.03.2025 | Completing muliple small CTF rooms                         | CTF mood - 25 Tasks |
-| 66 | 07.03.2025 | Completing Farewell CTF rooms                              | CTF mood - 8 Tasks |
-| 67 | 08.03.2025 | Completing Order and DarkMatter CTF rooms                  | CTF mood - 6 Tasks |
-| 68 | 09.03.2025 | Entering Threat Modeling room                              | SOC Level 2 path - 7 Tasks |
-| 69 | 10.03.2025 | Continuing Threat Modeling room                            | SOC Level 2 path - 6 Tasks |
-| 70 | 11.03.2025 | Completing Threat Modeling room                            | SOC Level 2 path - 15 Tasks |
-| 71 | 12.03.2025 | Entering Atomic Red Team room                              | SOC Level 2 path - 5 Tasks |
-| 72 | 13.03.2025 | Continuing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
-| 73 | 14.03.2025 | Continuing Atomic Red Team room                            | SOC Level 2 path - 6 Tasks |
-| 74 | 15.03.2025 | Completing LoFi CTF room                                   | CTF mood - 5 Tasks |
-| 75 | 16.03.2025 | Completing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
-| 76 | 17.03.2025 | Entering Caldera room                                      | SOC Level 2 path - 7 Tasks |
-| 77 | 18.03.2025 | Continuing Caldera room                                    | SOC Level 2 path - 10 Tasks |
-| 78 | 19.03.2025 | Continuing Caldera room                                    | SOC Level 2 path - 19 Tasks |
-| 79 | 20.03.2025 | Completing Caldera room                                    | SOC Level 2 path - 20 Tasks |
-| 80 | 21.03.2025 | Entering Security Engineer Intro room                      | Security Engineer path - 10 Tasks |
-| 81 | 22.03.2025 | Continuing Security Engineer Intro room                    | Security Engineer path - 6 Tasks |
-| 82 | 23.03.2025 | Completing Atomic Bird Goes Purple #1 room                 | SOC Level 2 path - 14 Tasks |
-| 83 | 24.03.2025 | Completing MissingPerson CTF room                          | CTF mood - 20 Tasks |
-| 84 | 25.03.2025 | Completing Atomic Bird Goes Purple #2 room                 | SOC Level 2 path - 16 Tasks  |
-| 85 | 26.03.2025 | Completing Preparation room                                | SOC Level 2 path - 16 Tasks  |
-| 86 | 27.03.2025 | Completing SlingShot (renewd) room                         | SOC Level 2 path - 16 Tasks  |
-| 87 | 28.03.2025 | Completing FixIt (renewd) room                             | SOC Level 2 path - 15 Tasks  |
-| 88 | 29.03.2025 | Completing Digital Footprint room                          | CTF mood - 16 Tasks  |
-| 89 | 30.03.2025 | PrintNightmare, again! room                                | CTF mood - 11 Tasks  |
-| 90 | 31.03.2025 | Completing Splunk: Exploring SPL (renewed) room            | CTF mood - 8 Tasks  |
-| 91 | 01.04.2025 | Completing Splunk: Dashboards and Reports (renewed) room   | CTF mood - 12 Tasks  |
-| 92 | 02.04.2025 | Completing Splunk (fixing missing rooms after update) room | SOC Level 2 path - 15 Tasks  |
-| 93 | 03.04.2025 | Entering Splunk Identification & Scoping room              | SOC Level 2 path - 4 Tasks  |
-| 94 | 04.04.2025 | Continuing Splunk Identification & Scoping room            | SOC Level 2 path - 7 Tasks  |
-| 95 | 05.04.2025 | Completing Splunk Identification & Scoping room            | SOC Level 2 path - 8 Tasks  |
+| 1  | 01.01.2026 | Completing Introduction to EDR room                        | SOC Level 1 (renewed) path - 25 Tasks |
+| 2  | 02.01.2026 | Completing Network Traffic Basics room                     | SOC Level 1 (renewed) path - 26 Tasks |
+| 3  | 03.01.2026 | Completing Network Security Essentials room                | SOC Level 1 (renewed) path - 27 Tasks |
+| 4  | 04.01.2026 | Completing Network Discovery Detection room                | SOC Level 1 (renewed) path - 28 Tasks |
+| 5  | 05.01.2026 | Entering Data Exfiltration Detection room                  | SOC Level 1 (renewed) path - 5 Tasks  |
+| 6  | 06.01.2026 | Completing Data Exfiltration Detection room                | SOC Level 1 (renewed) path - 6 Tasks  |
+| 7  | 07.01.2026 | Entering Man-in-the-Middle Detection room                  | SOC Level 1 (renewed) path - 7 Tasks  |
+| 8  | 08.01.2026 | Completing Man-in-the-Middle Detection room                | SOC Level 1 (renewed) path - 8 Tasks  |
+| 9  | 09.01.2026 | Entering Web Security Essentials room                      | SOC Level 1 (renewed) path - 9 Tasks  |
+| 10 | 10.01.2026 | Completing Web Security Essentials room                    | SOC Level 1 (renewed) path - 10 Tasks |
+| 11 | 11.01.2026 | Entering Web Security Essentials room                      | SOC Level 1 (renewed) path - 11 Tasks |
+| 12 | 12.01.2026 | Completing Detecting Web Attacks room                      | SOC Level 1 (renewed) path - 12 Tasks |
+| 13 | 13.01.2026 | Entering Detecting Web Shells room                         | SOC Level 1 (renewed) path - 13 Tasks |
+| 14 | 14.01.2026 | Completing Detecting Web Shells room                       | SOC Level 1 (renewed) path - 14 Tasks |
+| 15 | 15.01.2026 | Entering Detecting Web DDoS room                           | SOC Level 1 (renewed) path - 15 Tasks |
+| 16 | 16.01.2026 | Completing Detecting Web DDoS room                         | SOC Level 1 (renewed) path - 16 Tasks |
+| 17 | 17.01.2026 | Entering Windows Logging for SOC room                      | SOC Level 1 (renewed) path - 17 Tasks |
+| 18 | 18.01.2026 | Completing Windows Logging for SOC room                    | SOC Level 1 (renewed) path - 18 Tasks |
+| 19 | 19.01.2026 | Entering Windows Threat Detection room                     | SOC Level 1 (renewed) path - 19 Tasks |
+| 20 | 20.01.2026 | Completing Windows Threat Detection room                   | SOC Level 1 (renewed) path - 20 Tasks |
+| 21 | 21.01.2026 | Completing Windows Threat Detection 3 room                 | SOC Level 1 (renewed) path - 21 Tasks |
+| 22 | 22.01.2026 | Entering Linux Logging for SOC room                        | SOC Level 1 (renewed) path - 22 Tasks |
+| 23 | 23.01.2026 | Completing Linux Logging for SOC room                      | SOC Level 1 (renewed) path - 23 Tasks |
+| 24 | 24.01.2026 | Taking part in First Shift CTF                             | CTF mood - 88 Tasks |
+| 25 | 25.01.2026 | Completing Linux Threat Detection room                     | SOC Level 1 (renewed) path - 25 Tasks |
+| 26 | 26.01.2026 | Completing Linux Threat Detection 2 & 3 room               | SOC Level 1 (renewed) path - 26 Tasks |
+| 27 | 27.01.2026 | Completing Intro to Malware Analysis path                  | SOC Level 1 (renewed) path - 27 Tasks |
+| 28 | 28.01.2026 | Completing Malware Concepts for SOC path                   | SOC Level 1 (renewed) path - 33 Tasks |
+| 29 | 29.01.2026 | Completing File and Hash Threat Intel room                 | SOC Level 1 (renewed) path - 46 Tasks |
+| 30 | 30.01.2026 | Completing IP and Domain Threat Intel room                 | SOC Level 1 (renewed) path - 30 Tasks |
+| 31 | 31.01.2026 | Completing Invite Only room                                | SOC Level 1 (renewed) path - 31 Tasks |
+| ------------- | ------------- | ------------- | ------------- |
+| 32 | 01.02.2026 | Completing Log Analysis with SIEM room                     | SOC Level 1 (renewed) path - 32 Tasks |
+| 33 | 02.02.2026 | Completing Alert Triage With Elastic room                  | SOC Level 1 (renewed) path - 33 Tasks |
+| 34 | 03.02.2026 | Completing SOC L1 (renewed),starting part in SOC L2 path   | SOC Level 2 path - 34 Tasks |
+| 35 | 04.02.2026 | Completing Log Analysis rooms                              | SOC Level 2 path - 35 Tasks |
+| 36 | 05.02.2026 | Completing Splunk: Exploring SPL room                      | SOC Level 2 path - 36 Tasks |
+| 37 | 06.02.2026 | Completing Splunk: Setting up a SOC Lab room               | SOC Level 2 path - 37 Tasks |
+| 38 | 07.02.2026 | Completing CrackTheHash and ToolsRus rooms                 | CTF mood - 40 Tasks |
+| 39 | 08.02.2026 | Completing a lot simple ctf on tryhackme                   | CTF mood - 38 Tasks |
+| 40 | 09.02.2026 | Completing Advanced Splunk path                            | SOC Level 2 path - 45 Tasks |
+| 41 | 10.02.2026 | Entering Logstash: Data Processing Unit room               | SOC Level 2 path - 41 Tasks |
+| 42 | 11.02.2026 | Completing Logstash and Custom Alert Rules in Wazuh rooms  | SOC Level 2 path - 42 Tasks |
+| 43 | 12.02.2026 | Completing Slingshot room                                  | SOC Level 2 path - 43 Tasks |
+| 44 | 13.02.2026 | Completing Tactical Detection room                         | SOC Level 2 path - 44 Tasks |
+| 45 | 14.02.2026 | Taking part Love at First Breach CTF room                  | CTF mood - 47 Tasks |
+| 46 | 15.02.2026 | Completing Love at First Breach CTF room                   | CTF mood - 47 Tasks |
+| 47 | 16.02.2026 | Completing SigHunt and Sigma room                          | SOC Level 2 path - 48 Tasks |
+| 48 | 17.02.2026 | Completing Detection Engineering path                      | SOC Level 2 path - 48 Tasks |
+| 49 | 18.02.2026 | Completing Juicy Details and Threat Hunting:Foothold rooms | SOC Level 2 path - 51 Tasks |
+| 50 | 19.02.2026 | Completing Threat Hunting: Pivoting and Endgames rooms     | SOC Level 2 path - 50 Tasks |
+| 51 | 20.02.2026 | Completing Hunt Me I: Payment Collectors rooms             | SOC Level 2 path - 6 Tasks |
+| 52 | 21.02.2026 | Completing Clocky CTF rooms                                | CTF mood - 11 Tasks |
+| 53 | 22.02.2026 | Completing RootMe CTF rooms                                | CTF mood - 16 Tasks |
+| 54 | 23.02.2026 | Completing Hunt Me II: Typo Squatters rooms                | SOC Level 2 path - 26 Tasks  |
+| 55 | 24.02.2026 | Completing Silver Platter CTF rooms                        | CTF mood - 5 Tasks |
+| 56 | 25.02.2026 | Completing Basic Pentesting CTF rooms                      | CTF mood - 14 Tasks |
+| 57 | 26.02.2026 | Completing Simple CTF rooms                                | CTF mood - 16 Tasks |
+| 58 | 27.02.2026 | Completing W1seGuy CTF rooms                               | CTF mood - 9 Tasks |
+| 59 | 28.02.2026 | Completing LookUp CTF rooms                                | CTF mood - 5 Tasks |
+| ------------- | ------------- | ------------- | ------------- |
+| 60 | 01.03.2026 | Completing Become a Defender room                          | CTF mood - 10 Tasks |
+| 61 | 02.03.2026 | Completing Inside a Computer System room                   | Pre Security (New) - 7 Tasks |
+| 62 | 03.03.2026 | Entering Intro to Threat Emulation room                    | SOC Level 2 path - 7 Tasks |
+| 63 | 04.03.2026 | Completing Operation Slithern room                         | SOC Level 2 path - 12 Tasks |
+| 64 | 05.03.2026 | Completing Intro to Threat Emulation room                  | SOC Level 2 path - 10 Tasks |
+| 65 | 06.03.2026 | Completing muliple small CTF rooms                         | CTF mood - 25 Tasks |
+| 66 | 07.03.2026 | Completing Farewell CTF rooms                              | CTF mood - 8 Tasks |
+| 67 | 08.03.2026 | Completing Order and DarkMatter CTF rooms                  | CTF mood - 6 Tasks |
+| 68 | 09.03.2026 | Entering Threat Modeling room                              | SOC Level 2 path - 7 Tasks |
+| 69 | 10.03.2026 | Continuing Threat Modeling room                            | SOC Level 2 path - 6 Tasks |
+| 70 | 11.03.2026 | Completing Threat Modeling room                            | SOC Level 2 path - 15 Tasks |
+| 71 | 12.03.2026 | Entering Atomic Red Team room                              | SOC Level 2 path - 5 Tasks |
+| 72 | 13.03.2026 | Continuing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
+| 73 | 14.03.2026 | Continuing Atomic Red Team room                            | SOC Level 2 path - 6 Tasks |
+| 74 | 15.03.2026 | Completing LoFi CTF room                                   | CTF mood - 5 Tasks |
+| 75 | 16.03.2026 | Completing Atomic Red Team room                            | SOC Level 2 path - 16 Tasks |
+| 76 | 17.03.2026 | Entering Caldera room                                      | SOC Level 2 path - 7 Tasks |
+| 77 | 18.03.2026 | Continuing Caldera room                                    | SOC Level 2 path - 10 Tasks |
+| 78 | 19.03.2026 | Continuing Caldera room                                    | SOC Level 2 path - 19 Tasks |
+| 79 | 20.03.2026 | Completing Caldera room                                    | SOC Level 2 path - 20 Tasks |
+| 80 | 21.03.2026 | Entering Security Engineer Intro room                      | Security Engineer path - 10 Tasks |
+| 81 | 22.03.2026 | Continuing Security Engineer Intro room                    | Security Engineer path - 6 Tasks |
+| 82 | 23.03.2026 | Completing Atomic Bird Goes Purple #1 room                 | SOC Level 2 path - 14 Tasks |
+| 83 | 24.03.2026 | Completing MissingPerson CTF room                          | CTF mood - 20 Tasks |
+| 84 | 25.03.2026 | Completing Atomic Bird Goes Purple #2 room                 | SOC Level 2 path - 16 Tasks  |
+| 85 | 26.03.2026 | Completing Preparation room                                | SOC Level 2 path - 16 Tasks  |
+| 86 | 27.03.2026 | Completing SlingShot (renewd) room                         | SOC Level 2 path - 16 Tasks  |
+| 87 | 28.03.2026 | Completing FixIt (renewd) room                             | SOC Level 2 path - 15 Tasks  |
+| 88 | 29.03.2026 | Completing Digital Footprint room                          | CTF mood - 16 Tasks  |
+| 89 | 30.03.2026 | PrintNightmare, again! room                                | CTF mood - 11 Tasks  |
+| 90 | 31.03.2026 | Completing Splunk: Exploring SPL (renewed) room            | CTF mood - 8 Tasks  |
+| ------------- | ------------- | ------------- | ------------- |
+| 91 | 01.04.2026 | Completing Splunk: Dashboards and Reports (renewed) room   | CTF mood - 12 Tasks  |
+| 92 | 02.04.2026 | Completing Splunk (fixing missing rooms after update) room | SOC Level 2 path - 15 Tasks |
+| 93 | 03.04.2026 | Entering Splunk Identification & Scoping room              | SOC Level 2 path - 4 Tasks  |
+| 94 | 04.04.2026 | Continuing Splunk Identification & Scoping room            | SOC Level 2 path - 7 Tasks  |
+| 95 | 05.04.2026 | Completing Splunk Identification & Scoping room            | SOC Level 2 path - 8 Tasks  |
+| 96 | 06.04.2026 | Completing Threat Intel & Containment room                 | SOC Level 2 path - 15 Tasks |
+
