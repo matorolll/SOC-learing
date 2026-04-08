@@ -295,4 +295,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 95 | 05.04.2026 | Completing Splunk Identification & Scoping room            | SOC Level 2 path - 8 Tasks  |
 | 96 | 06.04.2026 | Completing Threat Intel & Containment room                 | SOC Level 2 path - 15 Tasks |
 | 97 | 07.04.2026 | Completing Eradication&Remed. and Lessons Learned rooms    | SOC Level 2 path - 51 Tasks |
+| 98 | 08.04.2026 | Completing Tardigrade and x86 Architecture Overview rooms  | SOC Level 2 path - 40 Tasks |
 
