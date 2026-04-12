@@ -298,5 +298,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 98 | 08.04.2026 | Completing Tardigrade and x86 Architecture Overview rooms  | SOC Level 2 path - 40 Tasks |
 | 99 | 09.04.2026 | Completing x86 Assembly Crash Course room                  | SOC Level 2 path - 38 Tasks |
 | 100| 10.04.2026 | Entering Windows Internals room                            | SOC Level 2 path - 3 Tasks |
-| 101| 11.04.2026 | Completing Skynet CTF room                                 |  CTF mood - 8 Tasks  |
+| 101| 11.04.2026 | Completing Skynet CTF room                                 | CTF mood - 8 Tasks |
+| 102| 12.04.2026 | Continuing Windows Internals room                          | SOC Level 2 path - 13 Tasks |
 
