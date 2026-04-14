@@ -301,4 +301,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 101| 11.04.2026 | Completing Skynet CTF room                                 | CTF mood - 8 Tasks |
 | 102| 12.04.2026 | Continuing Windows Internals room                          | SOC Level 2 path - 13 Tasks |
 | 103| 13.04.2026 | Completing Windows Internals room                          | SOC Level 2 path - 18 Tasks |
+| 104| 14.04.2026 | Completing AI/ML Security Threats room                     | AI Security path - 37 Tasks |
 
