@@ -307,4 +307,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 107| 17.04.2026 | Completing AI Forensics room                               | AI Security path - 32 Tasks |
 | 108| 18.04.2026 | Entering Securing AI Systems room                          | AI Security path - 7 Tasks |
 | 109| 19.04.2026 | Continuing Securing AI Systems room                        | AI Security path - 10 Tasks |
-
+| 110| 20.04.2026 | Completing Securing AI Systems room                        | AI Security path - 14 Tasks |
