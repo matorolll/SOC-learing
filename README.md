@@ -313,3 +313,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 113| 23.04.2026 | Completing AI System Reconnaissance room                   | AI Security path - 20 Tasks |
 | 114| 24.04.2026 | Completing Prompt Injection room                           | AI Security path - 23 Tasks |
 | 115| 25.04.2026 | Completing Jailbreaking room                               | AI Security path - 10 Tasks |
+| 116| 26.04.2026 | Entering promptdefence room                                | AI Security path - 6 Tasks |
