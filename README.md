@@ -316,3 +316,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 116| 26.04.2026 | Entering Prompt Injection room                             | AI Security path - 6 Tasks |
 | 117| 27.04.2026 | Completing Prompt Injection room                           | AI Security path - 30 Tasks |
 | 118| 28.04.2026 | Completing LLMborghini room                                | AI Security path - 16 Tasks |
+| 119| 29.04.2026 | Completing Supply Chain Attack Vectors room                | AI Security path - 48 Tasks |
