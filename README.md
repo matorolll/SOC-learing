@@ -318,5 +318,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 118| 28.04.2026 | Completing LLMborghini room                                | AI Security path - 16 Tasks |
 | 119| 29.04.2026 | Completing Supply Chain Attack Vectors room                | AI Security path - 50 Tasks |
 | 120| 30.04.2026 | Completing Securing the AI Supply Chain room               | AI Security path - 37 Tasks |
+| 121| 01.05.2026 | Entering RAG Security Fundamentals room                    | AI Security path - 5 Tasks |
+
 
 
