@@ -322,4 +322,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 122| 02.05.2026 | Continuing RAG Security Fundamentals room                  | AI Security path - 8 Tasks |
 | 123| 03.05.2026 | Completing RAG Security Fundamentals room                  | AI Security path - 5 Tasks |
 | 124| 04.05.2026 | Completing Data Poisoning in RAG Systems room              | AI Security path - 21 Tasks |
+| 125| 05.05.2026 | Completing Sensitive Information Disclosure room           | AI Security path - 30 Tasks |
 
