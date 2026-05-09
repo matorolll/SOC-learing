@@ -325,5 +325,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 125| 05.05.2026 | Completing Sensitive Information Disclosure room           | AI Security path - 30 Tasks |
 | 126| 06.05.2026 | Completing AI Security path                                | AI Security path - 28 Tasks |
 | 127| 07.05.2026 | Entering Dissecting PE room                                | SOC Level 2 path - 6 Tasks |
-| 128| 08.05.2026 | Completing Dissecting PE room                              | SOC Level 2 path - 23 Tasks |
+| 128| 08.05.2026 | Continuing Dissecting PE room                              | SOC Level 2 path - 23 Tasks |
+| 129| 09.05.2026 | Completing Dissecting PE room                              | SOC Level 2 path - 5 Tasks |
 
