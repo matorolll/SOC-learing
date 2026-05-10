@@ -327,4 +327,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 127| 07.05.2026 | Entering Dissecting PE room                                | SOC Level 2 path - 6 Tasks |
 | 128| 08.05.2026 | Continuing Dissecting PE room                              | SOC Level 2 path - 23 Tasks |
 | 129| 09.05.2026 | Completing Dissecting PE room                              | SOC Level 2 path - 5 Tasks |
+| 130| 10.05.2026 | Entering Advanced Static Analysis room                     | SOC Level 2 path - 15 Tasks |
 
