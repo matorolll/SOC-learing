@@ -332,3 +332,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 132| 12.05.2026 | Completing Advanced Static Analysis room                   | SOC Level 2 path - 22 Tasks |
 | 133| 13.05.2026 | Entering Basic Dynamic Analysis room                       | SOC Level 2 path - 8 Tasks |
 | 134| 14.05.2026 | Continuing Basic Dynamic Analysis room                     | SOC Level 2 path - 6 Tasks |
+| 135| 15.05.2026 | Continuing Basic Dynamic Analysis room                     | SOC Level 2 path - 6 Tasks |
