@@ -337,5 +337,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 137| 17.05.2026 | Continuing Dynamic Analysis: Debugging                     | SOC Level 2 path - 7 Tasks |
 | 138| 18.05.2026 | Completing Basic Dynamic and Dynamic Analysis: Debugging   | SOC Level 2 path - 17 Tasks |
 | 139| 19.05.2026 | Completing Anti-Reverse Engineering                        | SOC Level 2 path - 17 Tasks |
+| 140| 20.05.2026 | Entering MalBuster ctf                                     | SOC Level 2 path - 8 Tasks |
 
 
