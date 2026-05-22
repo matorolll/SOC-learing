@@ -339,5 +339,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 139| 19.05.2026 | Completing Anti-Reverse Engineering                        | SOC Level 2 path - 17 Tasks |
 | 140| 20.05.2026 | Entering MalBuster ctf                                     | SOC Level 2 path - 8 Tasks |
 | 141| 21.05.2026 | Continuing MalBuster ctf                                   | SOC Level 2 path - 6 Tasks |
-
+| 142| 22.05.2026 | Completing entire SOC level 2 path                         | SOC Level 2 path - 32 Tasks |
 
