@@ -341,4 +341,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 141| 21.05.2026 | Continuing MalBuster ctf                                   | SOC Level 2 path - 6 Tasks |
 | 142| 22.05.2026 | Completing entire SOC level 2 path                         | SOC Level 2 path - 32 Tasks |
 | 143| 23.05.2026 | Entering Guided Pentest: Web                               | Jr Penetration Tester path - 8 Tasks |
+| 144| 24.05.2026 | Continuing Guided Pentest: Web                             | Jr Penetration Tester path - 7 Tasks |
 
+Guided Pentest: Web
