@@ -344,4 +344,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 144| 24.05.2026 | Continuing Guided Pentest: Web                             | Jr Penetration Tester path - 7 Tasks |
 | 145| 25.05.2026 | Completing Guided Pentest: Web                             | Jr Penetration Tester path - 5 Tasks |
 | 146| 26.05.2026 | Entering Guided Pentest: Infrastructure                    | Jr Penetration Tester path - 7 Tasks |
+| 147| 27.05.2026 | Completing Guided Pentest: Infrastructure                  | Jr Penetration Tester path - 7 Tasks |
 
