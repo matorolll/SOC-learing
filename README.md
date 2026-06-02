@@ -350,4 +350,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 150| 30.05.2026 | Entering Cyber Kill Chain                                  | Jr Penetration Tester path - 15 Tasks |
 | 151| 31.05.2026 | Completing Cyber Kill Chain                                | Jr Penetration Tester path - 8 Tasks |
 | 152| 01.06.2026 | Entering Penetration Testing Frameworks                    | Jr Penetration Tester path - 12 Tasks |
+| 153| 02.06.2026 | Completing Penetration Testing Frameworks                  | Jr Penetration Tester path - 34 Tasks |
 
