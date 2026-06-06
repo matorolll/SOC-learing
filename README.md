@@ -354,3 +354,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 154| 03.06.2026 | Completing Walking An Application                          | Jr Penetration Tester path - 17 Tasks |
 | 155| 04.06.2026 | Entering Content Discovery                                 | Jr Penetration Tester path - 7 Tasks |
 | 156| 05.06.2026 | Completing Content Discovery                               | Jr Penetration Tester path - 19 Tasks |
+| 157| 06.06.2026 | Entering Modern Web Stacks                                 | Jr Penetration Tester path - 11 Tasks |
+
+
