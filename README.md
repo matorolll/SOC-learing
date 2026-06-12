@@ -360,4 +360,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 160| 09.06.2026 | Completing Web Server Attacks - I                          | Jr Penetration Tester path - 19 Tasks |
 | 161| 10.06.2026 | Continuing Web Server Attacks - II                         | Jr Penetration Tester path - 15 Tasks |
 | 162| 11.06.2026 | Completing Web Server Attacks - II                         | Jr Penetration Tester path - 11 Tasks |
+| 163| 12.06.2026 | SQL Injection Introduction                                 | Jr Penetration Tester path - 13 Tasks |
 
