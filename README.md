@@ -365,6 +365,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 165| 14.06.2026 | Entering CSRF Introduction                                 | Jr Penetration Tester path - 9 Tasks |
 | 166| 15.06.2026 | Completing CSRF Introduction                               | Jr Penetration Tester path - 23 Tasks |
 | 167| 16.06.2026 | Completing XSS Introduction                                | Jr Penetration Tester path - 22 Tasks |
+| 168| 17.06.2026 | Entering Session Management                                | Jr Penetration Tester path - 33 Tasks |
 
 
 
