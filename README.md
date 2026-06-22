@@ -370,5 +370,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 170| 19.06.2026 | Completing Broken Authentication                           | Jr Penetration Tester path - 26 Tasks |
 | 171| 20.06.2026 | Entering API Pentesting                                    | Jr Penetration Tester path - 8 Tasks |
 | 172| 21.06.2026 | Continuing API Pentesting                                  | Jr Penetration Tester path - 11 Tasks |
+| 173| 22.06.2026 | Completing API Pentesting                                  | Jr Penetration Tester path - 15 Tasks |
 
 
