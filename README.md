@@ -374,4 +374,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 174| 23.06.2026 | Completing Understanding Vulnerability Databases           | Jr Penetration Tester path - 18 Tasks |
 | 175| 24.06.2026 | Completing Vulnerability Scanning Tools                    | Jr Penetration Tester path - 21 Tasks |
 | 176| 25.06.2026 | Entering Basic Vulnerability Identification Techniques     | Jr Penetration Tester path - 17 Tasks |
+| 177| 26.06.2026 | Continuing Basic Vulnerability Identification Techniques   | Jr Penetration Tester path - 7 Tasks |
+| 178| 27.06.2026 | Completing Basic Vulnerability Identification Techniques   | Jr Penetration Tester path - 12 Tasks |
+
 
