@@ -376,6 +376,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 176| 25.06.2026 | Entering Basic Vulnerability Identification Techniques     | Jr Penetration Tester path - 17 Tasks |
 | 177| 26.06.2026 | Continuing Basic Vulnerability Identification Techniques   | Jr Penetration Tester path - 7 Tasks |
 | 178| 27.06.2026 | Completing Basic Vulnerability Identification Techniques   | Jr Penetration Tester path - 12 Tasks |
-| 178| 27.06.2026 | Entering Tomcat: CVE-2024-50379                            | Jr Penetration Tester path - 6 Tasks |
+| 178| 28.06.2026 | Entering Tomcat: CVE-2024-50379                            | Jr Penetration Tester path - 6 Tasks |
+| 179| 29.06.2026 | Completing Tomcat: CVE-2024-50379                          | Jr Penetration Tester path - 8 Tasks |
 
 
