@@ -379,4 +379,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 178| 28.06.2026 | Entering Tomcat: CVE-2024-50379                            | Jr Penetration Tester path - 6 Tasks |
 | 179| 29.06.2026 | Completing Tomcat: CVE-2024-50379                          | Jr Penetration Tester path - 8 Tasks |
 | 180| 30.06.2026 | Completing AD: BadSuccessor                                | Jr Penetration Tester path - 17 Tasks |
+| 181| 01.07.2026 | Entering NoScope: Finding RCE                              | Jr Penetration Tester path - 7 Tasks |
 
