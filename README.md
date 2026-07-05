@@ -383,4 +383,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 182| 02.07.2026 | Completing CVE-2026-46300: Fragnesia                       | Jr Penetration Tester path - 16 Tasks |
 | 183| 03.07.2026 | Completing CVE-2026-42945: Nginx Rift                      | Jr Penetration Tester path - 12 Tasks |
 | 184| 04.07.2026 | Completing Client Server Basics                            | Pre Security path - 11 Tasks |
-
+| 185| 05.07.2026 | Completing Virtualisation Basics                           | Pre Security path - 17 Tasks |
