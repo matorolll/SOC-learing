@@ -385,5 +385,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 184| 04.07.2026 | Completing Client Server Basics                            | Pre Security path - 11 Tasks |
 | 185| 05.07.2026 | Completing Virtualisation Basics                           | Pre Security path - 17 Tasks |
 | 186| 06.07.2026 | Completing Cloud Computing Fundamentals                    | Pre Security path - 13 Tasks |
+| 187| 07.07.2026 | Completing Operating Systems: Introduction                 | Pre Security path - 15 Tasks |
 
 
