@@ -389,4 +389,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 188| 08.07.2026 | Completing Windows Basics                                  | Pre Security path - 18 Tasks |
 | 189| 09.07.2026 | Completing Linux CLI Basics                                | Pre Security path - 15 Tasks |
 | 190| 10.07.2026 | Completing Windows CLI Basics                              | Pre Security path - 9 Tasks |
-
+| 191| 11.07.2026 | Completing Operating System Security                       | Pre Security path - 13 Tasks |
