@@ -397,5 +397,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 196| 16.07.2026 | Completing Pre Security path                               | Pre Security path - 8 Tasks |
 | 197| 17.07.2026 | Completing Phishing Basics                                 | Jr Penetration Tester path - 21 Tasks |
 | 198| 18.07.2026 | Entering Introduction to Wordlists                         | Jr Penetration Tester path - 12 Tasks |
+| 199| 19.07.2026 | Entering Password Cracking                         | Jr Penetration Tester path - 9 Tasks |
 
 
