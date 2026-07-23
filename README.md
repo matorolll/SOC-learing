@@ -400,4 +400,8 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 199| 19.07.2026 | Entering Password Cracking                                 | Jr Penetration Tester path - 9 Tasks |
 | 200| 20.07.2026 | Entering Defensive Security Intro                          | Jr Penetration Tester path - 6 Tasks |
 | 201| 21.07.2026 | Entering Host-Server Configuration Reviews                 | Jr Penetration Tester path - 11 Tasks |
-cap
+| 202| 22.07.2026 | Completing Host-Server Configuration Reviews               | Jr Penetration Tester path - 11 Tasks |
+| 203| 23.07.2026 | Completing Offensive Security Intro                        | Jr Penetration Tester path - 19 Tasks |
+
+
+
