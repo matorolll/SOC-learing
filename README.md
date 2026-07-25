@@ -403,6 +403,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 202| 22.07.2026 | Completing Host-Server Configuration Reviews               | Jr Penetration Tester path - 11 Tasks |
 | 203| 23.07.2026 | Completing Offensive Security Intro                        | Jr Penetration Tester path - 19 Tasks |
 | 204| 24.07.2026 | Completing Password Cracking                               | Jr Penetration Tester path - 21 Tasks |
+| 205| 25.07.2026 | Completing Checkmate CTF                                   | Jr Penetration Tester path - 9 Tasks |
 
 
 
