@@ -406,4 +406,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 205| 25.07.2026 | Completing Checkmate CTF                                   | Jr Penetration Tester path - 9 Tasks |
 | 206| 26.07.2026 | Completing Metasploit: The Basics                          | Jr Penetration Tester path - 29 Tasks |
 | 207| 27.07.2026 | Completing Metasploit: Scanning and Exploitation           | Jr Penetration Tester path - 30 Tasks |
-
+| 208| 28.07.2026 | Completing Metasploit: Post-Exploitation                   | Jr Penetration Tester path - 28 Tasks |
