@@ -407,3 +407,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 206| 26.07.2026 | Completing Metasploit: The Basics                          | Jr Penetration Tester path - 29 Tasks |
 | 207| 27.07.2026 | Completing Metasploit: Scanning and Exploitation           | Jr Penetration Tester path - 30 Tasks |
 | 208| 28.07.2026 | Completing Metasploit: Post-Exploitation                   | Jr Penetration Tester path - 28 Tasks |
+| 209| 29.07.2026 | Completing Metasploit: Payload Generation                  | Jr Penetration Tester path - 31 Tasks |
+
+
+
