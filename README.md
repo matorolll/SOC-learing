@@ -409,5 +409,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 208| 28.07.2026 | Completing Metasploit: Post-Exploitation                   | Jr Penetration Tester path - 28 Tasks |
 | 209| 29.07.2026 | Completing Metasploit: Payload Generation                  | Jr Penetration Tester path - 33 Tasks |
 | 210| 30.07.2026 | Completing Exploitation and Weaponisation                  | Jr Penetration Tester path - 24 Tasks |
+| 211| 31.07.2026 | Entering Hacker Holidays 2026                              | Hacker Holidays 2026 event - 21 Tasks |
 
 
