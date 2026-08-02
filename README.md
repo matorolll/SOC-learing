@@ -411,5 +411,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 210| 30.07.2026 | Completing Exploitation and Weaponisation                  | Jr Penetration Tester path - 24 Tasks |
 | 211| 31.07.2026 | Entering Hacker Holidays 2026                              | Hacker Holidays 2026 event - 21 Tasks |
 | 212| 01.08.2026 | Completing Recruit CTF                                     | Jr Penetration Tester path - 12 Tasks |
-
+| 213| 02.08.2026 | Completing Linux Privilege Escalation: Enumeration         | Jr Penetration Tester path - 22 Tasks |
 
