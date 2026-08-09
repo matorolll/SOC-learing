@@ -418,4 +418,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 217| 06.08.2026 | Completing Shells & Listeners Fundamentals                 | Jr Penetration Tester path - 11 Tasks |
 | 218| 07.08.2026 | Entering Shell Payload Generation & Delivery               | Jr Penetration Tester path - 14 Tasks |
 | 219| 08.08.2026 | Completing Shell Payload Generation & Delivery             | Jr Penetration Tester path - 21 Tasks |
-
+| 220| 09.08.2026 | Entering Linux Privilege Escalation: Basics                | Jr Penetration Tester path - 8 Tasks |
