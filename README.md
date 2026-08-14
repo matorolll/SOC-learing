@@ -423,6 +423,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 222| 11.08.2026 | Continuing Linux Privilege Escalation: Basics              | Jr Penetration Tester path - 6 Tasks |
 | 223| 12.08.2026 | Completing Linux Privilege Escalation: Basics              | Jr Penetration Tester path - 15 Tasks |
 | 224| 13.08.2026 | Completing Linux Privilege Escalation: Automation          | Jr Penetration Tester path - 19 Tasks |
-
+| 225| 14.08.2026 | Entering Active Directory Basics                           | Jr Penetration Tester path - 6 Tasks |
 
 
