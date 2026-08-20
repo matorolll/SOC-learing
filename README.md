@@ -429,4 +429,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 228| 17.08.2026 | Completing Wireless Security                               | Jr Penetration Tester path - 13 Tasks |
 | 229| 18.08.2026 | Entering Mobile Application Security                       | Jr Penetration Tester path - 8 Tasks |
 | 230| 19.08.2026 | Continuing Mobile Application Security                     | Jr Penetration Tester path - 7 Tasks |
+| 231| 20.08.2026 | Completing Mobile Application Security                     | Jr Penetration Tester path - 14 Tasks |
 
