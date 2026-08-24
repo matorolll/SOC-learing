@@ -433,4 +433,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 232| 21.08.2026 | Entering Cloud Security Fundamentals                       | Jr Penetration Tester path - 12 Tasks |
 | 233| 22.08.2026 | Completing Cloud Security Fundamentals                     | Jr Penetration Tester path - 15 Tasks |
 | 234| 23.08.2026 | Entering LLM Pentesting                                    | Jr Penetration Tester path - 9 Tasks |
+| 235| 24.08.2026 | Completing LLM Pentesting                                  | Jr Penetration Tester path - 21 Tasks |
 
