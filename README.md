@@ -436,4 +436,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 235| 24.08.2026 | Completing LLM Pentesting                                  | Jr Penetration Tester path - 21 Tasks |
 | 236| 25.08.2026 | Entering The Blue Team Perspective                         | Jr Penetration Tester path - 6 Tasks |
 | 237| 26.08.2026 | Continuing The Blue Team Perspective                       | Jr Penetration Tester path - 13 Tasks |
+| 238| 27.08.2026 | Entering DevSecOps Basics                                  | Jr Penetration Tester path - 14 Tasks |
 
