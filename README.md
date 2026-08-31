@@ -439,4 +439,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 238| 27.08.2026 | Entering DevSecOps Basics                                  | Jr Penetration Tester path - 14 Tasks |
 | 239| 28.08.2026 | Completing DevSecOps Basics                                | Jr Penetration Tester path - 12 Tasks |
 | 240| 29.08.2026 | Completing Python: Core Concepts                           | Jr Penetration Tester path - 34 Tasks |
+| 241| 30.08.2026 | Entering Python: Building Scripts                          | Jr Penetration Tester path - 11 Tasks |
+| 242| 31.08.2026 | Completing Python: Building Scripts                        | Jr Penetration Tester path - 11 Tasks |
 
