@@ -445,4 +445,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 244| 02.09.2026 | Continuing Python: Pentesting Scripts                      | Jr Penetration Tester path - 13 Tasks |
 | 245| 03.09.2026 | Completing Python: Pentesting Scripts                      | Jr Penetration Tester path - 9 Tasks |
 | 246| 04.09.2026 | Completing Jump and Windows Jump CTF rooms                 | Jr Penetration Tester path - 24 Tasks |
+| 247| 05.09.2026 | Entering Threat Modeling for Pentesters                    | Jr Penetration Tester path - 13 Tasks |
 
