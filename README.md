@@ -448,3 +448,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 247| 05.09.2026 | Entering Threat Modeling for Pentesters                    | Jr Penetration Tester path - 13 Tasks |
 | 248| 06.09.2026 | Completing Threat Modeling for Pentesters                  | Jr Penetration Tester path - 9 Tasks |
 | 249| 07.09.2026 | Entering Planning and Scoping                              | Jr Penetration Tester path - 9 Tasks |
+| 250| 08.09.2026 | Completing Planning and Scoping                            | Jr Penetration Tester path - 19 Tasks |
+
+
