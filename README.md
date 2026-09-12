@@ -452,4 +452,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 251| 09.09.2026 | Completing Writing Pentest Reports                         | Jr Penetration Tester path - 11 Tasks |
 | 252| 10.09.2026 | Entering Re-Testing                                        | Jr Penetration Tester path - 9 Tasks |
 | 253| 11.09.2026 | Completing Re-Testing                                      | Jr Penetration Tester path - 13 Tasks |
+| 254| 12.09.2026 | Completing Domino CTF                                      | Jr Penetration Tester path - 16 Tasks |
 
+ 
