@@ -455,3 +455,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 254| 12.09.2026 | Completing Domino CTF                                      | Jr Penetration Tester path - 16 Tasks |
 | 255| 13.09.2026 | Entering Active Directory Basics                           | Jr Penetration Tester path - 7 Tasks |
 | 256| 14.09.2026 | Entering Intro to AD Authentication                        | Jr Penetration Tester path - 13 Tasks |
+| 257| 15.09.2026 | Continuing Intro to AD Authentication                      | Jr Penetration Tester path - 15 Tasks |
