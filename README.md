@@ -470,4 +470,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 269| 27.09.2026 | Completing AD: Basic Enumeration and AD Authentication     | Jr Penetration Tester path - 17 Tasks |
 | 270| 28.09.2026 | Completing Intro to Credential Harvesting                  | Jr Penetration Tester path - 7 Tasks |
 | 271| 29.09.2026 | Completing Intro to AD Lateral Movement                    | Jr Penetration Tester path - 7 Tasks |
+| 272| 30.09.2026 | Completing Dead Drop CTF                                   | Jr Penetration Tester path - 9 Tasks |
 
