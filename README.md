@@ -472,4 +472,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 271| 29.09.2026 | Completing Intro to AD Lateral Movement                    | Jr Penetration Tester path - 7 Tasks |
 | 272| 30.09.2026 | Completing Dead Drop CTF                                   | Jr Penetration Tester path - 9 Tasks |
 | 273| 01.10.2026 | Completing Operation Promotion CTF                         | Jr Penetration Tester path - 7 Tasks |
+| 274| 02.10.2026 | Completing Proxy CTF                                       | Jr Penetration Tester path - 7 Tasks |
 
