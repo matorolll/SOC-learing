@@ -478,4 +478,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 277| 05.10.2026 | Completing Operation Coldstart CTF                         | Jr Penetration Tester path - 7 Tasks |
 | 278| 06.10.2026 | Completing Interceptor CTF                                 | Jr Penetration Tester path - 6 Tasks |
 | 279| 07.10.2026 | Completing Jr Penetration Tester path                      | Jr Penetration Tester path - 8 Tasks |
+| 280| 08.10.2026 | Completing Enumeration & Brute Force                       | Web Application Pentesting path - 9 Tasks |
 
