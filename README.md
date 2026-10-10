@@ -480,4 +480,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 279| 07.10.2026 | Completing Jr Penetration Tester path                      | Jr Penetration Tester path - 8 Tasks |
 | 280| 08.10.2026 | Completing Enumeration & Brute Force                       | Web Application Pentesting path - 9 Tasks |
 | 281| 09.10.2026 | Entering JWT Security                                      | Web Application Pentesting path - 10 Tasks |
+| 282| 10.10.2026 | Continuing JWT Security                                    | Web Application Pentesting path - 9 Tasks |
 
