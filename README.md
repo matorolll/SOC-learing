@@ -483,5 +483,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 282| 10.10.2026 | Continuing JWT Security                                    | Web Application Pentesting path - 9 Tasks |
 | 283| 11.10.2026 | Completing Senior Security Analyst Intro                   | SOC LEVEL 2 path - 9 Tasks |
 | 284| 12.10.2026 | Completing SOC L2 Alert Triage                             | SOC LEVEL 2 path - 13 Tasks |
-| 285| 13.10.2026 | Entering Report Writing for SOC L2                         | SOC LEVEL 2 path - 10 Tasks |
+| 285| 13.10.2026 | Completing Report Writing for SOC L2                       | SOC LEVEL 2 path - 10 Tasks |
+| 286| 14.10.2026 | Completing Defensive Security Trends                       | SOC LEVEL 2 path - 34 Tasks |
 
