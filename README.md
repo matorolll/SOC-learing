@@ -488,6 +488,7 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 287| 15.10.2026 | Completing Elastic: Query Languages                        | SOC LEVEL 2 path - 6 Tasks |
 | 288| 16.10.2026 | Completing Elastic: Setting up a SOC Lab                   | SOC LEVEL 2 path - 8 Tasks |
 | 290| 17.10.2026 | Entering Elastic: Using Elastic Defend                     | SOC LEVEL 2 path - 6 Tasks |
+| 291| 18.10.2026 | Completing Elastic: Using Elastic Defend                   | SOC LEVEL 2 path - 9 Tasks |
 
 
 
