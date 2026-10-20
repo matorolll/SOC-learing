@@ -490,4 +490,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 290| 17.10.2026 | Entering Elastic: Using Elastic Defend                     | SOC LEVEL 2 path - 6 Tasks |
 | 291| 18.10.2026 | Completing Elastic: Using Elastic Defend                   | SOC LEVEL 2 path - 9 Tasks |
 | 292| 19.10.2026 | Entering Elastic: Using Logstash                           | SOC LEVEL 2 path - 17 Tasks |
+| 293| 20.10.2026 | Completing Elastic: Using Logstash                         | SOC LEVEL 2 path - 25 Tasks |
 
