@@ -492,4 +492,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 292| 19.10.2026 | Entering Elastic: Using Logstash                           | SOC LEVEL 2 path - 17 Tasks |
 | 293| 20.10.2026 | Completing Elastic: Using Logstash                         | SOC LEVEL 2 path - 25 Tasks |
 | 294| 21.10.2026 | Entering Monitoring Active Directory                       | SOC LEVEL 2 path - 10 Tasks |
+| 295| 22.10.2026 | Completing Monitoring Active Directory                     | SOC LEVEL 2 path - 18 Tasks |
 
