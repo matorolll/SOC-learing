@@ -495,4 +495,5 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 295| 22.10.2026 | Completing Monitoring Active Directory                     | SOC LEVEL 2 path - 18 Tasks |
 | 296| 23.10.2026 | Entering Detecting AD Initial Access                       | SOC LEVEL 2 path - 6 Tasks |
 | 297| 24.10.2026 | Continuing Detecting AD Initial Access                     | SOC LEVEL 2 path - 7 Tasks |
+| 298| 25.10.2026 | Continuing Detecting AD Initial Access                     | SOC LEVEL 2 path - 9 Tasks |
 
