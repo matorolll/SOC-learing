@@ -499,5 +499,6 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 299| 26.10.2026 | Completing Detecting AD Initial Access                     | SOC LEVEL 2 path - 7 Tasks |
 | 300| 27.10.2026 | Entering Detecting AD Credential Attacks                   | SOC LEVEL 2 path - 10 Tasks |
 | 301| 28.10.2026 | Continuing Detecting AD Credential Attacks                 | SOC LEVEL 2 path - 8 Tasks |
-| 302| 29.10.2026 | Completing Detecting AD Credential Attacks                 | SOC LEVEL 2 path - 9 Tasks |
+| 302| 29.10.2026 | Continuing Detecting AD Credential Attacks                 | SOC LEVEL 2 path - 9 Tasks |
+| 303| 30.10.2026 | Completing Detecting AD Credential Attacks                 | SOC LEVEL 2 path - 11 Tasks |
 
