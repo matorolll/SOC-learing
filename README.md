@@ -506,4 +506,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 306| 02.10.2026 | Completing Detecting AD Post-Exploitation                  | SOC LEVEL 2 path - 6 Tasks |
 | 307| 03.10.2026 | Entering M365 Monitoring Basics                            | SOC LEVEL 2 path - 6 Tasks |
 | 308| 04.10.2026 | Continuing M365 Monitoring Basics                          | SOC LEVEL 2 path - 6 Tasks |
-
+| 309| 05.10.2026 | Continuing M365 Monitoring Basics                          | SOC LEVEL 2 path - 9 Tasks |
