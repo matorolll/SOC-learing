@@ -510,3 +510,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 310| 06.10.2026 | Completing M365 Monitoring Basics                          | SOC LEVEL 2 path - 13 Tasks |
 | 311| 07.10.2026 | Entering Entra ID Monitoring                               | SOC LEVEL 2 path - 9 Tasks |
 | 312| 08.10.2026 | Continuing Entra ID Monitoring                             | SOC LEVEL 2 path - 8 Tasks |
+| 313| 09.10.2026 | Continuing Entra ID Monitoring                             | SOC LEVEL 2 path - 6 Tasks |
