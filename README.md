@@ -514,3 +514,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 314| 10.10.2026 | Completing Entra ID Monitoring                             | SOC LEVEL 2 path - 10 Tasks |
 | 315| 11.10.2026 | Entering Exchange Online Monitoring                        | SOC LEVEL 2 path - 11 Tasks |
 | 316| 12.10.2026 | Completing Exchange Online Monitoring                      | SOC LEVEL 2 path - 11 Tasks |
+| 317| 13.10.2026 | Entering SharePoint Online Monitoring                      | SOC LEVEL 2 path - 8 Tasks |
