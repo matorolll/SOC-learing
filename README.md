@@ -518,3 +518,4 @@ Overall, this month and throughout the year, I completed 4,444 tasks, took part 
 | 318| 14.11.2026 | Continuing SharePoint Online Monitoring                    | SOC LEVEL 2 path - 9 Tasks |
 | 319| 15.11.2026 | Completing SharePoint Online Monitoring                    | SOC LEVEL 2 path - 8 Tasks |
 | 320| 16.11.2026 | Entering Microsoft Intune Monitoring                       | SOC LEVEL 2 path - 13 Tasks |
+| 321| 17.11.2026 | Continuing Microsoft Intune Monitoring                     | SOC LEVEL 2 path - 6 Tasks |
